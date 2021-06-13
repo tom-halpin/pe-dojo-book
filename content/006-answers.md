@@ -1,4 +1,4 @@
-# Appendix 2 - Answers to Questions
+# Appendix 2 - Answers
 
 ## Introduction to Product Engineering
 
@@ -35,6 +35,14 @@ The following are skills needed by a Product Engineer
 - Effective communicator
 - Prioritization and estimation
 - Engineering execution
+
+## Pop Quiz 2
+
+### Question 1
+
+**What should a team create as a declaration of their Product Engineering values and principles, a Product Engineering ... ?**
+
+The correct answer is **manifesto**, a team should create a Product Engineering manifesto as a declaration of their Product Engineering values and principles.
 
 ## Design Thinking
 

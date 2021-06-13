@@ -1,20 +1,20 @@
 ## Integrating With Current Practices
 
-![](assets//pennyworth.png)
+![](assets/pennyworth.png)
 
 How would the recommended Product Engineering lifecycle fit with our current DevOps practices?
 
-![](assets//productengineering-lifecycle.png)
+![](assets/productengineering-lifecycle.png)
 
-![](assets//paulo.png)
+![](assets/paulo.png)
 
 I was wondering about the same thing, and put together the following diagram to help illustrate that point.
 
-![](assets//enterprise-best-practices.png)
+![](assets/enterprise-best-practices.png)
 
 I see the recommended Product Engineering lifecycle seamlessly integrating with our current lifecycle, thus helping to accelerate the deployment of best Agile, Lean, and DevOps practices.
 
-![](assets//miyagi.png)
+![](assets/miyagi.png)
 
 Thanks the team and explains that having created Product Engineering
 
@@ -32,7 +32,7 @@ and formed a
 
 The next steps are to work with the teams to help them introduce Product Engineering across the Universal Imports Group.
 
-![](assets//pennyworth.png)
+![](assets/pennyworth.png)
 
 I love it when a plan comes together, can't wait to see this start to get rolled out across the group.
 
