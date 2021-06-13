@@ -12,7 +12,7 @@ and of their agreed Product:
 
 _A set of best practices representing the recommended Product Engineering Practices for the Universal Imports Group and collateral to help teams implement those practices_
 
-The team meet. Ideas ebb and flow. Serious amounts of 🍕🍕🍕🍕 and ☕☕☕☕ are consumed.
+The team meet. Ideas ebb and flow. Serious amounts of ![](assets/pizza.png)![](assets/pizza.png)![](assets/pizza.png)![](assets/pizza.png) and ![](assets/coffee.png)![](assets/coffee.png)![](assets/coffee.png)![](assets/coffee.png) are consumed.
 
 Deliberations are intense, engaging and heated at times but ultimately rewarding.
 

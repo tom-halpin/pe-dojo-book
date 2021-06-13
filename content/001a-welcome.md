@@ -1,10 +1,8 @@
 # Chapter 1 - Welcome
 
-Welcome to the **Online Product Engineering Dojo**.
-
 Thank you for making time to peruse this book. We hope the investment of your time is rewarded with Product Engineering learnings and insights. We further hope that you can apply these learnings in your work and in your team's work.
 
-This book includes **5** chapters:
+This book includes **4** chapters and an assessment:
 
 * Welcome
 * Introduction to Product Engineering
@@ -14,7 +12,7 @@ This book includes **5** chapters:
 
 ## Overview
 
-In this Welcome chapter, we will get you started by introducing you to the scenario and the cast of characters. Once you are all set, you can complete the other chapters in the  **Online Product Engineering Dojo** at your own pace.
+In this Welcome chapter, we will get you started by introducing you to the scenario and the cast of characters. Once you are all set, you can complete the other chapters at your own pace.
 
 This course is set in the Pet Clinic ![](assets/cat.png)![](assets/bear.png)![](assets/dog.png)![](assets/hamster.png)![](assets/koala.png)![](assets/horse.png)![](assets/mouse.png)![](assets/octopus.png)![](assets/rabbit.png)![](assets/hospital.png) - Multiverse ![](assets/boom.png).
 

@@ -2,10 +2,6 @@
 
 ## Introduction to Product Engineering
 
-## Design Thinking
-
-## Getting Started
-
 ### Pop Quiz 1
 
 #### Question 1
@@ -39,6 +35,60 @@ The following are skills needed by a Product Engineer
 - Effective communicator
 - Prioritization and estimation
 - Engineering execution
+
+## Design Thinking
+
+## Getting Started
+
+### Pop Quiz 1
+
+#### Question 1
+
+**Which of the following are responsibilities of a Product Squad?**
+
+The correct answer is **all of them**  as these are all responsibilities of a Product Squad
+
+- Writing Code.
+
+- Testing the code and the functionality implemented.
+
+- Deploying the "live" product.
+
+- Supporting the product.
+
+#### Question 2
+
+**Which of the following are principles in the Universal Imports Group's Product Engineering Manifesto?**
+
+The correct answer is **Focus on Customers underpinned by a deep empathy for their needs** and **Foster a Culture of Experimentation via Ideation, Validation, Realization, Feedback and Iteration** are principles in the Universal Imports Group's Product Engineering Manifesto.
+
+### Pop Quiz 2
+
+#### Question 1
+
+**Which of the following should good Product Engineering practices support?**
+
+The correct answer is Good Product Engineering practices should support **all of them**
+
+- Creation of new revenue-generating business models.
+
+- End-to-end product value chain from ideation through the development process, to deployment and after-market product support.
+
+- Application of Agile, Lean and DevOps principles to facilitate highly efficient development processes.
+
+- Value creation at a lower cost base and with a lower cost of ownership.
+
+#### Question 2
+
+**Which two phases are missing from the Product Engineering Life Cycle diagram?**
+
+The two phases of the Product Engineering Life Cycle missing from the Product Engineering Life Cycle are
+
+**Architecture and Prototyping** and **Product Delivery**.
+
+The recommended Product Engineering Life Cycle is
+
+![](assets/productengineering-lifecycle.png)
 
 ## Assessment
 

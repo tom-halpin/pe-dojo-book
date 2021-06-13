@@ -29,4 +29,3 @@ Our Product Owners have a key role in ensuring that balance between Product and 
 ![](assets/paulo.png)
 
 Agreed, we can do that by creating appropriate Feature and Enabler epics in the respective product backlogs and ensuring the squads are given sufficient time to work on both types of epics.
-

@@ -39,7 +39,7 @@ To continue giving something back to the community we also released an open sour
 
 Our challenge as coaches was to make the experience engaging. There is nothing better than a good story to engage people, so we created one to support the training.
 
-The modules tell the story of a fictitious group of companies, the "Universal Imports Group" and its employees on their Product Engineering journey. You will meet those employees in subsequent chapters, share their journeys and hopefully gain some insights from those journeys that will help you in your own Product Engineering journey.
+The dojo tells the story of a fictitious group of companies, the "Universal Imports Group" and its employees on their Product Engineering journey. You will meet those employees in subsequent chapters, share their journeys and hopefully gain some insights from those journeys that will help you in your own Product Engineering journey.
 
 ## Ready to Begin?
 

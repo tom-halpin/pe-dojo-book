@@ -2,24 +2,18 @@
 
 ### Question 1
 
-**Which of the following are the responsibilities of a Product Engineer?**
+**Which of the following are responsibilities of a Product Squad?**
 
-- [ ]Help shape the product
-- [ ]Participate in product development process
-- [ ]Understand technical constraints, resources and opportunities
-- [ ]Work to achieve practical product/technical tradeoffs
-- [ ]Focus on ROI
-- [ ]Deliver a mix of products
-- [ ]All of the above
-
+- [ ]Writing Code.
+- [ ]Testing the code and the functionality implemented.
+- [ ]Deploying the "live" product.
+- [ ]Supporting the product
 
 ### Question 2
 
-**Which of the following are included in the Skill Set of a Product Engineer?**
+**Which of the following are principles in the Universal Imports Group's Product Engineering Manifesto?**
 
-- [ ]Strong focus on and deep understanding of the Product
-- [ ]Make data driven decisions
-- [ ]Effective communicator
-- [ ]Prioritization and estimation
-- [ ]Engineering execution
-- [ ]All of the above
+- [ ]Focus on Customers underpinned by a deep empathy for their needs.
+- [ ]Foster a Culture of Experimentation via Ideation, Validation, Realization, Feedback and Iteration.
+- [ ]Value on Theory over Practice, Standards over Guidelines & Tooling over Culture.
+- [ ]Create tightly coupled components supported by APIs, Microservices & Integrations.
