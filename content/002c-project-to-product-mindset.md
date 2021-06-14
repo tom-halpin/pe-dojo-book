@@ -16,15 +16,15 @@ I agree that establishing a Product Engineering culture is important. I think th
 
 To facilitate those considerations I offer the following definitions of a project and a product.
 
-## Project
+### Project
 
 A project is designed to achieve a specific goal. Projects typically have a set lifespan with a defined beginning and a defined end. They may involve the formation of a dedicated project team to deliver the project.
 
-## Product
+### Product
 
 A product is a solution created to address the needs of a particular set of customers, the aim is to create one solution to address the needs of many customers. Software Products come in many forms including applications, APIs, managed services, platforms etc. Products are typically developed, deployed and operated by dedicated teams.
 
-## Cultural Impacts
+### Cultural Impacts
 
 ![](assets/miyagi.png)
 

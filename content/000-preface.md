@@ -14,6 +14,6 @@ Tom recently recognized as a Distinguished Engineer by DXC Technology currently 
 
 ## Dedication
 
-_To family members who have come before, are here now and are yet to arrive._
+_To my family members those who have come before, are here now and are yet to arrive._
 
 _July, 2021_

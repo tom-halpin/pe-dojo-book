@@ -40,6 +40,21 @@ The following are skills needed by a Product Engineer
 
 ### Question 1
 
+**In which phase of the Product Engineering Cycle should teams ideally focus on determining if a proposed product or feature is worth pursuing or not ?**
+
+The correct answer is **Ideation and Conceptualization**
+
+The **Ideation and Conceptualization** stage of the Product Engineering Cycle is where teams
+
+- Conceive the idea.
+
+- Document it.
+
+- Decide if idea is worth pursuing or not.
+
+
+### Question 2
+
 **What should a team create as a declaration of their Product Engineering values and principles, a Product Engineering ... ?**
 
 The correct answer is **manifesto**, a team should create a Product Engineering manifesto as a declaration of their Product Engineering values and principles.

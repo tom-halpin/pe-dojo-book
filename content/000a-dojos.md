@@ -41,7 +41,7 @@ Our challenge as coaches was to make the experience engaging. There is nothing b
 
 The dojo tells the story of a fictitious group of companies, the "Universal Imports Group" and its employees on their Product Engineering journey. You will meet those employees in subsequent chapters, share their journeys and hopefully gain some insights from those journeys that will help you in your own Product Engineering journey.
 
-## Ready to Begin?
+### Ready to Begin?
 
 Ready to begin? If so go grab a cup of your favorite ![](assets/coffee.png) or ![](assets/tea.png). Resist the temptation to multi-task, turn off all electronic devices ![](assets/iphone.png) other than the device you are reading this ebook on, of course.
 

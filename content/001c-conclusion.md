@@ -1,4 +1,8 @@
-## Next Steps
+## Conclusion
+
+Hopefully upon completing the **Product Engineering** book, the next time you have need for a bigger ![](assets/boat.png) it will be Product Engineered accordingly.
+
+Buckle up we are going on an adventure, where we are going we don't need roads ![](assets/rocket.png) but first a challenge ...
 
 ![](assets/telephone.png)![](assets/telephone.png)![](assets/telephone.png) **Call** ![](assets/telephone.png)![](assets/telephone.png)![](assets/telephone.png) for curious students ![](assets/alien.png)![](assets/baby.png)![](assets/bear.png)![](assets/boy.png)![](assets/cat.png)![](assets/man.png)![](assets/man_with_turban.png)![](assets/alien.png).
 
