@@ -61,6 +61,42 @@ The correct answer is **manifesto**, a team should create a Product Engineering 
 
 ## Design Thinking
 
+### Pop Quiz 1
+
+#### Question 1
+
+**During the Design Thinking Test stage the team conclude there is a need to 'revisit the defined problem' why might that be?**
+
+The correct answer is **Prototype identified a problem which the design did not address**
+
+Design Thinking is not a linear process, prototypes are created to both validate and identify issues in designs and proposed solutions.
+
+#### Question 2
+
+**What is the purpose of a prototype in the context of Design Thinking?**
+
+The correct answer is **A model of the proposed solution which end users can test and provide feedback on**
+
+In Design Thinking prototypes are used to produce an early stage scaled down version of a product. Prototypes allow a group of end users evaluate a potential solution, thus enable teams to gather feedback and identify potential problems with the design.
+
+### Pop Quiz 2
+
+#### Question 1
+
+**How can Universal Imports continue to innovate after introducing Design Thinking?**
+
+The correct answer is **By implementing a process of continuous improvement**
+
+Continuous Improvement or Kaizen events should be run to identify and implement innovation opportunities.
+
+#### Question 2
+
+**Having brainstormed a number of ideas to solve a problem, what should a team do to test those ideas?**
+
+The correct answer is **Select the most promising ideas and create viable prototypes**
+
+Having brainstormed a number of ideas to solve a problem a team should select the most promising ideas and create viable prototypes to test those ideas.
+
 ## Getting Started
 
 ### Pop Quiz 1
