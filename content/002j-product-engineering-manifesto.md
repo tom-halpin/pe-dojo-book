@@ -1,12 +1,4 @@
-## Product Engineering - Need for a Manifesto
-
-The team decides to create a Product Engineering Manifesto as a declaration of values and principles.
-
-The team plans to use the Product Engineering Manifesto to share its views, and intentions in relation to the use of Product Engineering within the Universal Imports Group.
-
-![](assets/intro-pe-strip2-page1.jpg)
-
-![](assets/intro-pe-strip2-page2.jpg)
+## Product Engineering Manifesto
 
 Inspired by the [Agile Manifesto](https://agilemanifesto.org/) the team settle on the following draft **Product Engineering Manifesto** for the Universal Imports Group.
 
