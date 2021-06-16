@@ -15,12 +15,11 @@ Following a series of workshops the team decide to recommend and start to implem
 | **Phase**                          | **Description**                                                                                                                | **Comments**                                                             |
 |------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | **Ideation and Conceptualization** | Conceive the idea. Document it. Idea worth pursuing or not?                                                                    | UI/UX prototyping tools like [Axure](https://www.axure.com/)             |
-| **Architecture and Prototyping**   | Create engineering designs. Bring finalized concept to life.                                                                   | Look to design companies like DXC's [argodesign](https://argodesign.com/) |
-| **Design & Development**           | Develop product including items such as CI/CD, Test Automation & SRE. Manage implementation costs.                                            | ![](assets/devopslifecycle.png) |
+| **Architecture and Prototyping**   | Create engineering designs. Bring finalized concept to life. | Look to design companies like DXC's [argodesign](https://argodesign.com/) |
+| **Design & Development**           | Develop product including items such as CI/CD, Test Automation & SRE. Manage implementation costs. | ![](assets/devopslifecycle.png) |
 | **System Testing, Scans, and UAT** | System testing, scans and UAT. Validate developed product meets the intended use and is fault free. Identify & fix any issues. | ![](assets/devopslifecycle.png) |
-| **Product Delivery**               | Release to market.                                                                                                             | ![](assets/devopslifecycle.png) |
-| **Product Support**                | Periodic updates and enhancements. Maintenance. Support.                                                                       | ![](assets/devopslifecycle.png) |
-| **Product Maintenance**            | Facilitate scaling and product evolution.                                                                                      | ![](assets/devopslifecycle.png) |
+| **Product Delivery** | Release to market.  | ![](assets/devopslifecycle.png) |
+| **Product Support**                | Periodic updates and enhancements. Maintenance. Support.  | ![](assets/devopslifecycle.png) | | **Product Maintenance**            | Facilitate scaling and product evolution.  | ![](assets/devopslifecycle.png) |
 
 **Note:** Take the **Getting Started** module in this course to learn how the workshops were conducted and for more details as to the outcomes from the workshops.
 
