@@ -1,4 +1,4 @@
-## Design Thinking
+## Design Thinking in Product Engineering
 
 ![](assets/miyagi.png)
 
