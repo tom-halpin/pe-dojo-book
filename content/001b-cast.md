@@ -89,11 +89,3 @@ Brenda is keen to understand how Product Engineering principles can be applied t
 **D**an, one of the Pet Clinic development team. During the Pet Clinics' DevOps transformation Dan focused on test-driven development, continuous integration and continuous delivery pipelines.
 
 Dan has been asked to participate in the Product Engineering Chapter to give a developer's perspective and to help tailor the Product Engineering practices for software development.
-
-### Merida (Offering Lead) - Managed Services
-
-![](assets/merida.png)
-
-**M**erida, is an offering lead for one of the managed service offerings of the Universal Imports Group.
-
-Merida has been asked to participate in the Product Engineering Chapter to give the perspective of an offering lead and to help tailor the Product Engineering practices for managed services.
