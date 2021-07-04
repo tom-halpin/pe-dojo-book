@@ -7,7 +7,7 @@ This eBook is based on DXC's [Online Product Engineering Dojo](https://dxc-techn
 
 ## Download
 
-To download a copy of the ebook use one of the following links:
+To download a copy of the eBook use one of the following links:
 
 * [Light mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-light.pdf)
 
