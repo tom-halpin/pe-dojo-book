@@ -3,6 +3,7 @@
         {"pattern": ".spelling"},
         {"pattern": "/workflows/"},
         {"pattern": "/actions?"}
+        {"pattern": "assets/"}
     ],
     "aliveStatusCodes": [200,206,429]
 }
