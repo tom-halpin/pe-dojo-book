@@ -25,6 +25,7 @@ jobs:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VALIDATE_MD: true
+          VALIDATE_HTML: false
           ACTIONS_RUNNER_DEBUG: false # Flag to enable additional information about the linter, versions, and additional output.
           DISABLE_ERROR: false # Flag to have the linter complete with exit code 0 even if errors were detected.
           DEFAULT_WORKSPACE: /tmp/lint

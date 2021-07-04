@@ -2,7 +2,7 @@
     "ignorePatterns": [
         {"pattern": ".spelling"},
         {"pattern": "/workflows/"},
-        {"pattern": "/actions?"}
+        {"pattern": "/actions?"},
         {"pattern": "assets/"}
     ],
     "aliveStatusCodes": [200,206,429]
