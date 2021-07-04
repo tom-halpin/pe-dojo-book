@@ -12,11 +12,17 @@ The Pet Clinic's DevOps Transformation is starting to deliver results including:
 
 A recent workshop was held to facilitate the group leaderships' desire to see the learnings from the Pet Clinic's DevOps Transformation applied to the other companies in the Universal Imports Group.
 
-Amongst the attendees were **P**aulo and **B**renda from the Pet Clinic transformation team ![](assets/cat.png)![](assets/bear.png)![](assets/dog.png)![](assets/hamster.png)![](assets/koala.png)![](assets/horse.png)![](assets/mouse.png)![](assets/octopus.png)![](assets/rabbit.png)![](assets/hospital.png); **A**driana from InGen, the group's Space Exploration Company ![](assets/boom.png)![](assets/boom.png)![](assets/boom.png)![](assets/rocket.png)![](assets/boom.png)![](assets/boom.png)![](assets/boom.png)![](assets/rocket.png) and **P**ennyworth from The Daily Mentioner, the group's national newspaper ![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png).
+Amongst the attendees were
+
+ - **P**aulo and **B**renda from the Pet Clinic transformation team ![](assets/cat.png)![](assets/bear.png)![](assets/dog.png)![](assets/hamster.png)![](assets/koala.png)![](assets/horse.png)![](assets/mouse.png)![](assets/octopus.png)![](assets/rabbit.png)![](assets/hospital.png)
+ - **A**driana from InGen, the group's Space Exploration Company ![](assets/boom.png)![](assets/boom.png)![](assets/boom.png)![](assets/rocket.png)![](assets/boom.png)![](assets/boom.png)![](assets/boom.png)![](assets/rocket.png)
+ - **P**ennyworth from The Daily Mentioner, the group's national newspaper ![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png).
 
 The purpose of the meeting was to brief the representatives from the other companies in the Universal Imports Group on the Pet Clinic's DevOps Transformation with a view to having them champion similar transformation efforts in their respective companies.
 
-One of the main outcomes from the meeting was the general recognition how Lean principles were applied to a relatively complex development environment. This enabled the Pet Clinic team to document, analyze, and improve the processes involved in the delivery of the Pet Clinic application to their customers in the business. The resulting process improvements helped the Pet Clinic team to identify and eliminate waste in their processes.
+One of the main outcomes from the meeting was the general recognition how Lean principles were applied to a relatively complex development environment. This enabled the Pet Clinic team to document, analyze, and improve the processes involved in the delivery of the Pet Clinic application to their customers in the business.
+
+The resulting process improvements helped the Pet Clinic team to identify and eliminate waste in their processes.
 
 The team, now faced with the challenge of improving Product Engineering practices within the Universal Imports Group, are considering applying the techniques learnt during the workshop to help scale Product Engineering practices across the Universal Imports Group.
 

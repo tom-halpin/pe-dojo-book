@@ -18,9 +18,9 @@ The following are some of the responsibilities of a Product Engineer
 - Work to achieve practical product/technical tradeoffs
 - Focus on ROI
 - Deliver a mix of products
-    - POCs
-    - MVPs
-    - Highly scalable systems
+  - POCs
+  - MVPs
+  - Highly scalable systems
 
 #### Question 2
 
@@ -150,6 +150,8 @@ The recommended Product Engineering Life Cycle is
 ![](assets/productengineering-lifecycle.png)
 
 ## Assessment
+
+### Answers
 
 #### Question 1
 
