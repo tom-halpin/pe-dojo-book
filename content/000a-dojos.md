@@ -43,7 +43,7 @@ The dojo tells the story of a fictitious group of companies, the "Universal Impo
 
 ### Ready to Begin?
 
-Ready to begin? If so go grab a cup of your favorite ![](assets/coffee.png) or ![](assets/tea.png). Resist the temptation to multi-task, turn off all electronic devices ![](assets/iphone.png) other than the device you are reading this ebook on, of course.
+Ready to begin? If so go grab a cup of your favorite ![](assets/coffee.png) or ![](assets/tea.png). Resist the temptation to multi-task, turn off all electronic devices ![](assets/iphone.png) other than the device you are reading this eBook on, of course.
 
 Let's get started on Product Engineering!
 

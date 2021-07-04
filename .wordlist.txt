@@ -32,6 +32,7 @@ brightgreen
 btn
 calc
 cd
+centric
 Changelog
 CHANGELOG
 charset
@@ -63,7 +64,7 @@ dl
 dnt
 Dockerfile
 dockerized
-Dojo's``
+Dojo's
 Dojo
 dojo
 Dojos
@@ -72,9 +73,13 @@ dxc
 DXC
 DXC's
 eBook
+eBook's
 educationcorner
 ejcK
+eLearning
 EO
+enablement
+Enablement
 endfor
 endif
 endunless
@@ -117,6 +122,7 @@ InGen's
 integrations
 Integrations
 io
+iphone
 iteratively
 itrevolution
 Javascript
@@ -217,6 +223,7 @@ SaC
 sachelp
 scaffolder
 scalable
+scalability
 scm
 scroller
 sequentialJobs

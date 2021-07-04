@@ -183,7 +183,7 @@ The correct answer is **Empathize** refer to Chapter 3 - Design Thinking for mor
 
 #### Question 6
 
-**Design Thinking is seen as a means of addressing which identified gap in Universal Imports Group recommended Product Engineering LifecyCle?**
+**Design Thinking is seen as a means of addressing which identified gap in Universal Imports Group recommended Product Engineering Lifecycle?**
 
 The correct answer is **Ideation and Conceptualization** refer to Chapter 3 - Design Thinking for more details
 

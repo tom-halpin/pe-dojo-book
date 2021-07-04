@@ -53,7 +53,7 @@ The answers are out there ![](assets/boom.png)![](assets/rocket.png)![](assets/b
 
 ### Question 6
 
-**Design Thinking is seen as a means of addressing which identified gap in Universal Imports Group recommended Product Engineering LifecyCle?**
+**Design Thinking is seen as a means of addressing which identified gap in Universal Imports Group recommended Product Engineering Lifecycle?**
 
 - [ ]Product Delivery
 - [ ]Product Support
