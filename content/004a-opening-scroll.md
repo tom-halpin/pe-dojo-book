@@ -14,9 +14,9 @@ A recent workshop was held to facilitate the group leaderships' desire to see th
 
 Amongst the attendees were
 
- - **P**aulo and **B**renda from the Pet Clinic transformation team ![](assets/cat.png)![](assets/bear.png)![](assets/dog.png)![](assets/hamster.png)![](assets/koala.png)![](assets/horse.png)![](assets/mouse.png)![](assets/octopus.png)![](assets/rabbit.png)![](assets/hospital.png)
- - **A**driana from InGen, the group's Space Exploration Company ![](assets/boom.png)![](assets/boom.png)![](assets/boom.png)![](assets/rocket.png)![](assets/boom.png)![](assets/boom.png)![](assets/boom.png)![](assets/rocket.png)
- - **P**ennyworth from The Daily Mentioner, the group's national newspaper ![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png).
+* **P**aulo and **B**renda from the Pet Clinic transformation team ![](assets/cat.png)![](assets/bear.png)![](assets/dog.png)![](assets/hamster.png)![](assets/koala.png)![](assets/horse.png)![](assets/mouse.png)![](assets/octopus.png)![](assets/rabbit.png)![](assets/hospital.png)
+* **A**driana from InGen, the group's Space Exploration Company ![](assets/boom.png)![](assets/boom.png)![](assets/boom.png)![](assets/rocket.png)![](assets/boom.png)![](assets/boom.png)![](assets/boom.png)![](assets/rocket.png)
+* **P**ennyworth from The Daily Mentioner, the group's national newspaper ![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png).
 
 The purpose of the meeting was to brief the representatives from the other companies in the Universal Imports Group on the Pet Clinic's DevOps Transformation with a view to having them champion similar transformation efforts in their respective companies.
 
@@ -35,4 +35,3 @@ This chapter covers the ensuing discussions and the actions arising from those d
 |![](assets/adriana.png)| **Adriana**  Architect from the InGen Space Exploration Company, part of the Universal Imports Group of companies, lending her expertise to the Product Engineering effort.|
 |![](assets/paulo.png)| **Paulo**  Product Owner for the Pet Clinic Application.|
 |![](assets/brenda.png)| **Brenda**  Business representative from the Pet Clinic, who was the main Business champion of the DevOps transformation.|
-

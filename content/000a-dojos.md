@@ -6,7 +6,9 @@ This eBook's roots lie in a number of interactive Dojos DXC developed to train i
 
 DevOps Dojos became popular since Target, an important U.S.-based retail company, started to introduce such a practice back in 2014 in support of its DevOps transformation. Since then, multiple conference talks, white papers and books have been published about DevOps Dojos.
 
-DXC have been running DevOps Dojos for own employees and customers for some time, however we quickly came to a point where our physical DevOps Dojos were not enough to cover all the needs. Everyone was loving the experience, and to this day the on-site experience still leads to great results. But we had a scalability issue: we could not accommodate everyone we needed to address so we developed an interactive browser based DevOps Dojo for our staff.
+DXC have been running DevOps Dojos for own employees and customers for some time, however we quickly came to a point where our physical DevOps Dojos were not enough to cover all the needs. Everyone was loving the experience, and to this day the on-site experience still leads to great results.
+
+But we had a scalability issue: we could not accommodate everyone we needed to address so we developed an interactive browser based DevOps Dojo for our staff.
 
 Following the success of that effort we released an open source version of our DevOps Dojo - the [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo).
 
@@ -20,7 +22,9 @@ As a result DXC invests heavily in helping customer-facing teams adopt new appro
 
 Product engineering embraces concepts of design thinking, which aims to create better products and services by understanding how users interact with them and the conditions under which they are to operate. It emphasizes bidirectional communication, feedback loops, learning from mistakes and experiential approaches.
 
-DXC wanted to provide training to help our people make the cultural shift from a project mindset to a product mindset, to do so we created an interactive browser based **Product Engineering Dojo**. The objective being to help ensure the software applications and integrations we develop, as well as the managed services we provide, are better suited to the needs of the business and the demands of the market.
+DXC wanted to provide training to help our people make the cultural shift from a project mindset to a product mindset, to do so we created an interactive browser based **Product Engineering Dojo**.
+
+The objective being to help ensure the software applications and integrations we develop, as well as the managed services we provide, are better suited to the needs of the business and the demands of the market.
 
 ### Open Sourcing
 
