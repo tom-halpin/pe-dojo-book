@@ -8,7 +8,9 @@ Both Dojo's place learners in real-world-like scenarios, scenarios where they wo
 
 ## About the Author
 
-Tom recently recognized as a Distinguished Engineer by DXC Technology currently works in an Agile/DevOps enablement role in the Innovation and Automation group of DXC's Delivery organization. He has experience of a variety of sectors including factory automation, supply chain & logistics, lecturing, eLearning & training and finance where he has performed a variety of roles from software development to technical management. Currently Tom is helping teams in DXC to transform how they work to a DevOps model in support of product aligned value streams. Tom has helped incorporate the learnings from these coaching engagements in to DXC’s DevOps & Product Engineering Dojos thus facilitating the scaled adaption of the associated culture, practices and tools across DXC.
+Tom recently recognized as a Distinguished Engineer by DXC Technology currently works in an Agile/DevOps enablement role in the Innovation and Automation group of DXC's Delivery organization. He has experience of a variety of sectors including factory automation, supply chain & logistics, lecturing, eLearning & training and finance where he has performed a variety of roles from software development to technical management.
+
+Currently Tom is helping teams in DXC to transform how they work to a DevOps model in support of product aligned value streams. Tom has helped incorporate the learnings from these coaching engagements in to DXC’s DevOps & Product Engineering Dojos thus facilitating the scaled adaption of the associated culture, practices and tools across DXC.
 
 ## Foreword
 
