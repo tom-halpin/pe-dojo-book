@@ -58,5 +58,5 @@ return [
      */
     'sample_notice' => 'Product Engineering - A Tale from the Pet Clinic multi-verse<br>
                         The novelization of the Online Product Engineering Dojo<br>
-                        For more information, <a href="https://github.com/dxc-technology/about-pe-dojo/">Click here</a>.',
+                        <a href="https://github.com/dxc-technology/about-pe-dojo/">Click here</a> for more info.',
 ];
