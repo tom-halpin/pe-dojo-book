@@ -36,9 +36,9 @@ The following are skills needed by a Product Engineer
 - Prioritization and estimation
 - Engineering execution
 
-## Pop Quiz 2
+### Pop Quiz 2
 
-### Question 1
+#### Question 1
 
 **In which phase of the Product Engineering Cycle should teams ideally focus on determining if a proposed product or feature is worth pursuing or not ?**
 
@@ -52,8 +52,7 @@ The **Ideation and Conceptualization** stage of the Product Engineering Cycle is
 
 - Decide if idea is worth pursuing or not.
 
-
-### Question 2
+#### Question 2
 
 **What should a team create as a declaration of their Product Engineering values and principles, a Product Engineering ... ?**
 

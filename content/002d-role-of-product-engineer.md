@@ -18,8 +18,8 @@ They specify the following as being the requirements for the role
 
 - Deliver a mix of products including
 
-    - Proof of Concepts (POCs).
+  - Proof of Concepts (POCs).
 
-    - Minimum Viable Products (MVPs).
+  - Minimum Viable Products (MVPs).
 
-    - Highly available scalable systems.
+  - Highly available scalable systems.
