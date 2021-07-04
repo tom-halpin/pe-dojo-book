@@ -31,7 +31,6 @@ The project uses [Ibis](https://github.com/themsaid/ibis/), a PHP tool that help
 
 * [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/)
 * [Ibis](https://github.com/themsaid/ibis/)
-* [Canva](https://www.canva.com/)
 * [Katacoda](https://www.katacoda.com/)
 
 ## Contributing
