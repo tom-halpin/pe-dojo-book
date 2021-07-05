@@ -1,9 +1,22 @@
 # Product Engineering Dojo eBook
+
+A tale from the [Pet-Clinic multiverse](https://dxc-technology.github.io/about-pe-dojo/).
+
 ## Introduction
 
-This is an open-sourced eBook providing an Introduction to Product Engineering. It is intended for anyone working in an organization that has or is embarking on a product engineering journey.
+This repository holds an open-sourced eBook providing an Introduction to Product Engineering. It is intended for anyone working in an organization that has or is embarking on a Product Engineering journey.
 
-This eBook is based on DXC's [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/) which provides an interactive training course using [Katacoda](https://www.katacoda.com/).
+This eBook is based on the [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/) from [DXC Technology](https://www.dxc.com) which provides an interactive Product Engineering training course using [Katacoda](https://www.katacoda.com/) an interactive learning platform.
+
+## Content
+
+The eBook includes **4** chapters and an assessment:
+
+* Welcome
+* Introduction to Product Engineering
+* Design Thinking
+* Getting Started
+* Assessment
 
 ## Download
 
@@ -13,19 +26,21 @@ To download a copy of the eBook use one of the following links:
 
 * [Dark mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-dark.pdf)
 
-## Content
-
-This book includes **4** chapters and an assessment:
-
-* Welcome
-* Introduction to Product Engineering
-* Design Thinking
-* Getting Started
-* Assessment
-
 ## eBook (PDF) Generation Tool
 
-The project uses [Ibis](https://github.com/themsaid/ibis/), a PHP tool that helps you create eBooks from markdown.
+The project uses [Ibis](https://github.com/themsaid/ibis/), a PHP tool that enables the creation of eBooks from markdown.
+
+To generate the [Light mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-light.pdf) eBook
+
+```bash
+ibis build
+```
+
+To generate the [Dark mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-dark.pdf) eBook
+
+```bash
+ibis build dark
+```
 
 ## Links
 
@@ -35,4 +50,4 @@ The project uses [Ibis](https://github.com/themsaid/ibis/), a PHP tool that help
 
 ## Contributing
 
-We :heart: contributions, please review the [contributing guide](CONTRIBUTING.md) before submitting a pull request.
+We :heart: contributions. Please review the [Contributing Guide](CONTRIBUTING.md) before submitting a pull request.

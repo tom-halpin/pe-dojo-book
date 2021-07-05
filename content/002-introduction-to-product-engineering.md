@@ -6,8 +6,6 @@ The primary objective of the this chapter is to give you an introduction to Prod
 
 ## Learning Outcomes
 
-By the end of the chapter you will be able to
-
 This module will give you an introduction to Product Engineering including
 
 - Definition of Product Engineering

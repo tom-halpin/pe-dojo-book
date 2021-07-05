@@ -1,6 +1,6 @@
 ## Dojos
 
-This eBook's roots lie in a number of interactive Dojos DXC developed to train it's own employees and then open sourced in order to share with the wider community.
+This eBook's roots lie in a number of interactive dojos which DXC developed to train it's own employees and then open sourced in order to share with the wider community.
 
 ### DevOps Dojos
 
@@ -12,7 +12,7 @@ But we had a scalability issue: we could not accommodate everyone we needed to a
 
 Following the success of that effort we released an open source version of our DevOps Dojo - the [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo).
 
-In parallel we continued to apply the Dojo model to other problem domains.
+In parallel we continued to apply the Dojo model to other problem domains including Product Engineering.
 
 ### Product Engineering Dojo
 
@@ -28,26 +28,26 @@ The objective being to help ensure the software applications and integrations we
 
 ### Open Sourcing
 
-We use the **Product Engineering Dojo** to:
+Internally DXC uses the **Product Engineering Dojo** to:
 
-- Train people at scale on Product Engineering.
+- Train people at scale on product engineering.
 - Help people prepare for a face-to-face or virtual Product Engineering Dojo or Design Thinking Workshop by learning techniques in advance.
 - Provide a product engineering curriculum with interactive modules.
 - Provide a browser based way to allow students get knowledge when they need it.
 - Share what "good looks like" when answering enquiries in relation to Product Engineering  or Design Thinking patterns
 - Following on from the success of the [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo) - continue to leverage the story and the characters by extending the story and thus create more learning experiences in effect creating the Pet Clinic multi-verse.
 
-To continue giving something back to the community we also released an open source version of our Product Engineering Dojo - the [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo).
+To continue giving something back to the community we released an open source version of our Product Engineering Dojo - the [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo).
 
 ### Universal Imports - A Story
 
 Our challenge as coaches was to make the experience engaging. There is nothing better than a good story to engage people, so we created one to support the training.
 
-The dojo tells the story of a fictitious group of companies, the "Universal Imports Group" and its employees on their Product Engineering journey. You will meet those employees in subsequent chapters, share their journeys and hopefully gain some insights from those journeys that will help you in your own Product Engineering journey.
+The dojo tells the story of a fictitious group of companies, the "Universal Imports Group" and its employees on their Product Engineering journey. You will meet those employees in subsequent chapters, share their journeys and hopefully gain some insights that will help you in your own Product Engineering journey.
 
 ### Ready to Begin?
 
-Ready to begin? If so go grab a cup of your favorite ![](assets/coffee.png) or ![](assets/tea.png). Resist the temptation to multi-task, turn off all electronic devices ![](assets/iphone.png) other than the device you are reading this eBook on, of course.
+Ready to begin? If so go grab a cup of your favorite ![](assets/coffee.png) or ![](assets/tea.png). Resist the temptation to multi-task, turn off all electronic devices ![](assets/iphone.png) other than the device you are reading this eBook on of course.
 
 Let's get started on Product Engineering!
 

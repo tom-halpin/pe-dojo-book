@@ -1,6 +1,6 @@
 ## Opening Scroll
 
-**C**harlie, the CEO of the Universal Imports Group of companies, sponsored a DevOps Transformation in the Pet Clinic. Details on that initiative can be found at [ONLINE DEVOPS DOJO](https://dxc-technology.github.io/about-devops-dojo/modules/).
+**C**harlie, the CEO of the Universal Imports Group of companies, sponsored a DevOps Transformation in the Pet Clinic. Details on that initiative can be found at [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/modules/).
 
 The Pet Clinic's DevOps Transformation is starting to deliver results including:
 

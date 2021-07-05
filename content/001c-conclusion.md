@@ -1,6 +1,6 @@
 ## Conclusion
 
-Hopefully upon completing the **Product Engineering** book, the next time you have need for a bigger ![](assets/boat.png) it will be Product Engineered accordingly.
+Hopefully upon completing the **Product Engineering** book, the next time you or your team have a need for a bigger ![](assets/boat.png) it will be Product Engineered accordingly.
 
 Buckle up we are going on an adventure, where we are going we don't need roads ![](assets/rocket.png) but first a challenge ...
 

@@ -14,7 +14,7 @@ They have recommended the following Product Engineering lifecycle
 
 ![](assets/productengineering-lifecycle.png)
 
-In parallel to that effort, the DevOps transformation recently piloted in the Pet Clinic is about to be rolled out across the wider group. For details on the Pet Clinic DevOps transformation see [ONLINE DEVOPS DOJO](https://dxc-technology.github.io/about-devops-dojo/modules/).
+In parallel to that effort, the DevOps transformation recently piloted in the Pet Clinic is about to be rolled out across the wider group. For details on the Pet Clinic DevOps transformation see [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/modules/).
 
 The team expects that the DevOps transformation will support and improve the following Product Engineering lifecycle phases
 
