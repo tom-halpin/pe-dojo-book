@@ -28,7 +28,7 @@ To download a copy of the eBook use one of the following links:
 
 ## eBook (PDF) Generation Tool
 
-The project uses [Ibis](https://github.com/themsaid/ibis/), a PHP tool that enables the creation of eBooks from markdown.
+The project uses [Ibis](https://github.com/themsaid/ibis/) which is licensed under the [MIT License](https://github.com/themsaid/ibis/blob/master/LICENSE.md). [Ibis](https://github.com/themsaid/ibis/) is a PHP tool that enables the creation of eBooks from markdown.
 
 To generate the [Light mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-light.pdf) eBook
 
