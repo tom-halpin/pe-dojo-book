@@ -119,6 +119,7 @@ ideation
 IDEO
 iframe
 img
+inertias
 infoq
 InfoQ
 InGen
