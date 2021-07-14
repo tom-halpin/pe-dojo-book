@@ -18,9 +18,9 @@ Currently Tom is helping teams in DXC to transform how they work to a DevOps mod
 
 Seeing the evolution of IT in the last 30 years it has obvious from the start that the combination of technology, people and processes all need to evolve at the same time for organizations to see the true benefit from the modern era.
 
-Although in software development the power of the team and the adoption of agile processes is a proven and well documented mode of operation, the extension of this wider into the IT landscape has been harder for organizations to adopt.
+Although in software development the power of the team and the adoption of agile processes is a proven and well documented mode of operation, the extension of this wider into the IT landscape has been harder for organizations to adopt. The movement to a product engineering operating model is difficult and requires a set of steppingstones to get there.
 
-The movement to a product engineering operating model is difficult and requires a set of steppingstones to get there. One the biggest inertias to this is that organizations do appreciate the power to the team and role which are played in that team, simply branding people a scrum master or product owner does not work. These roles / characters play a critical part, but we struggle to understand how they should interact.
+One the biggest inertias to this is that organizations do appreciate the power to the team and role which are played in that team, simply branding people a scrum master or product owner does not work. These roles / characters play a critical part, but we struggle to understand how they should interact.
 
 Step in ‘Product Engineering’ and its unique way to portray the roles and functions needed to successfully operate through a multi-verse (**Pet Clinic**) experience, making characters relatable to corporate roles whilst applying a simple yet powerful set of proven methods.
 
