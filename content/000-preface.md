@@ -4,7 +4,7 @@ Humans love stories, the urge to tell stories is in our DNA. The eBook can be co
 
 The [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/modules/) modules are set in the same **Pet Clinic** multi-verse as DXC's Online DevOps Dojo - [https://dxc-technology.github.io/about-devops-dojo/](https://dxc-technology.github.io/about-devops-dojo/).
 
-Both dojo's place learners in real-world-like scenarios, scenarios where they work with a virtual cast of characters sharing the challenges and aspirations of the **Universal Imports** team as they learn about Product Engineering.
+Both dojos place learners in real-world-like scenarios, scenarios where they work with a virtual cast of characters sharing the challenges and aspirations of the **Universal Imports** team as they learn about Product Engineering.
 
 ## About the Author
 
