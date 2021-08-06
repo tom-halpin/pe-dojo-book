@@ -6,7 +6,9 @@ A tale from the [Pet-Clinic multiverse](https://dxc-technology.github.io/about-p
 
 This repository holds an open-sourced eBook providing an Introduction to Product Engineering. It is intended for anyone working in an organization that has or is embarking on a Product Engineering journey.
 
-This eBook is based on the [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/) from [DXC Technology](https://www.dxc.com) which provides an interactive Product Engineering training course using [Katacoda](https://www.katacoda.com/) an interactive learning platform.
+This eBook is based on the [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/) from [DXC Technology](https://www.dxc.com).
+
+The [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/) provides an interactive Product Engineering training course using the [Katacoda](https://www.katacoda.com/) learning platform.
 
 ## Content
 

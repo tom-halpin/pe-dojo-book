@@ -1,6 +1,6 @@
 # Preface
 
-Humans love stories, the urge to tell stories is in our DNA. The eBook can be considered as the novelization of [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/modules/) which takes a pioneering role-based story telling approach to help achieve hands-on learning at scale.
+Humans love stories, the urge to tell stories is in our DNA. The eBook can be considered as the novelization of [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/modules/). The [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/modules/) takes a role-based story telling approach to help achieve hands-on learning at scale.
 
 The [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/modules/) modules are set in the same **Pet Clinic** multi-verse as DXC's Online DevOps Dojo - [https://dxc-technology.github.io/about-devops-dojo/](https://dxc-technology.github.io/about-devops-dojo/).
 
@@ -8,17 +8,15 @@ Both dojos place learners in real-world-like scenarios, scenarios where they wor
 
 ## About the Author
 
-Tom recently recognized as a Distinguished Engineer by DXC Technology currently works in an Agile/DevOps enablement role in the Innovation and Automation group of DXC's Delivery organization.
+Tom recently recognized as a Distinguished Engineer by DXC Technology works in an Agile/DevOps enablement role in the Innovation and Automation group of DXC's Delivery organization.
 
-He has experience of a variety of sectors including factory automation, supply chain & logistics, lecturing, eLearning & training and finance where he has performed a variety of roles from software development to technical management.
-
-Currently Tom is helping teams in DXC to transform how they work to a DevOps model in support of product aligned value streams. Tom has helped incorporate the learnings from these coaching engagements in to DXC’s DevOps & Product Engineering Dojos thus facilitating the scaled adaption of the associated culture, practices and tools across DXC.
+Tom helps teams in DXC to transform how they work to a DevOps model in support of product aligned value streams. Tom has helped incorporate the learnings from these coaching engagements in to DXC’s DevOps & Product Engineering Dojos thus facilitating the scaled adaption of the associated culture, practices and tools across DXC.
 
 ## Foreword
 
 Seeing the evolution of IT in the last 30 years it has obvious from the start that the combination of technology, people and processes all need to evolve at the same time for organizations to see the true benefit from the modern era.
 
-Although in software development the power of the team and the adoption of agile processes is a proven and well documented mode of operation, the extension of this wider into the IT landscape has been harder for organizations to adopt. The movement to a product engineering operating model is difficult and requires a set of steppingstones to get there.
+Although in software development the power of the team and the adoption of agile processes is a proven and well documented mode of operation, the extension of this wider into the IT landscape has been harder for organizations to adopt. The movement to a Product Engineering operating model is difficult and requires a set of steppingstones to get there.
 
 One the biggest inertias to this is that organizations do appreciate the power to the team and role which are played in that team, simply branding people a scrum master or product owner does not work. These roles / characters play a critical part, but we struggle to understand how they should interact.
 
@@ -34,6 +32,6 @@ Distinguished Architect & Director General Manager of DXC Technology Office
 
 ## Dedication
 
-_To my family members those who have come before, are here now and are yet to arrive._
+_To my family, to those who have come before, those that are here now and those that are yet to arrive._
 
-_July, 2021_
+_August, 2021_
