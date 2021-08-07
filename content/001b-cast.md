@@ -4,7 +4,7 @@ Before we proceed lets take a few minutes to catch up with some of the Pet Clini
 
 We will share in their challenges, opportunities and achievements as our story unfolds.
 
-This book has several characters which play a role throughout the story. Some of these characters were originally introduced in the [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/modules/).
+This eBook has several characters which play a role throughout the story. Some of these characters were originally introduced in the [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/modules/).
 
 Charlie has gathered the following key individuals together from across the group to lead the adoption of Product Engineering in the Universal Imports Group under a program called **Overlook**.
 
@@ -16,11 +16,11 @@ Charlie has gathered the following key individuals together from across the grou
 
 Charlie is a serial disruptor, he understands the importance of adaptability and speed.
 
-Being an entrepreneur he has had successes and failures in the past, he expects to have successes and failures in the future.
+Being an entrepreneur he has had successes and failures in the past, he expects to have more successes and indeed more failures in the future.
 
 He views the discipline of Product Engineering as being essential to tilting the scales in favour of future successes.
 
-His motto is to _"Better to fail fast if you are likely to fail at all"_ so he is keen to see more work done in the design and prototyping phases of projects.
+His motto is to _"Better to fail fast if you are likely to fail at all"_ hence he is keen to see more work done in the design and prototyping phases of projects.
 
 ### Miyagi (Product Engineering Mentor)
 
@@ -28,7 +28,7 @@ His motto is to _"Better to fail fast if you are likely to fail at all"_ so he i
 
 **M**iyagi Product Engineering Coach and Mentor hired by Charlie to help increase the use of Product Engineering within the Universal Imports Group.
 
-Miyagi's coaching philosophy is to engage, coach, empower and support the teams he works with to enable those teams to solve problems for themselves.
+Miyagi's coaching philosophy is to engage, coach, empower and support the teams he works with, and in doing so enable those teams to solve problems for themselves.
 
 He finds coaching to be a rewarding experience but on the rare occasions it is not, he de-stresses by doing a little DIY including painting fences, sanding floors and waxing cars.
 
@@ -44,7 +44,7 @@ Miyagi is keen to apply those learnings in the Universal Imports Group and to al
 
 She caught the space bug as a child watching the lunar landings on a grainy old TV set and is busy pursuing her passion for all things Space with InGen.
 
-Adriana has an interest in all phases of the Product Engineering life cycle but has a particular interest in architecture for testability.
+Adriana has an interest in all phases of the Product Engineering life cycle, but has a particular interest in architecture for testability.
 
 She wants to ensure the rockets InGen plan to send to infinity (figuratively speaking) and beyond return safely.
 
@@ -54,7 +54,7 @@ She wants to ensure the rockets InGen plan to send to infinity (figuratively spe
 
 **P**ennyworth a **P**roject Manager from the Daily Mentioner national newspaper is a servant leader, he facilitates the work of the teams on the projects he manages.
 
-A loyal and longstanding confidant of Charlie Pennyworth often acts as Charlie's weather _wayne_ pardon the pun on new programs.
+A loyal and longstanding confidant of Charlie, Pennyworth often acts as Charlie's weather _wayne_ pardon the pun on new programs.
 
 Pennyworth works to ensure that new programs become shining examples of best practices and is thus ideally suited to helping on the Overlook program.
 

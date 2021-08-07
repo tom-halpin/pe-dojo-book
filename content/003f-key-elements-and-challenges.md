@@ -6,9 +6,9 @@
 
 There are a number of elements key to the successful adaption of Design Thinking:
 
-- _People-centered_ - Empathy is key - Focus on what people, users, customers, consumers, etc., need or want to do.
+- _People-centered_ - Empathy is key - Focus on what people, users, customers, consumers, etc. need or want to do.
 
-- _Highly Creative_ - Look at problems differently. - Problems are opportunities to add value & to come up with new solutions.
+- _Highly Creative_ - Look at problems differently - Problems are opportunities to add value & to come up with new solutions.
 
 - _Show, Don’t Tell_ - Use visuals to communicate what you are thinking.
 

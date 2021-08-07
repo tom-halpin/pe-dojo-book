@@ -8,8 +8,8 @@ The team brainstorm Ideas to create a Prototype or "example of good" for Product
 
 - Use Agile, Lean and DevOps principles to facilitate highly efficient development processes.
 
-- Facilitate value creation at a lower cost base and with a lower cost of ownership.
+- Facilitate value creation at a lower cost base and with a lower total cost of ownership.
 
-The team agrees to recommend the following Product Engineering life cycle to share with the teams working to improve their Product Engineering practices:
+The team agrees to recommend the following Product Engineering life cycle to teams in the group working to improve their Product Engineering practices:
 
 ![](assets/productengineering-lifecycle.png)

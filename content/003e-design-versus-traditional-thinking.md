@@ -6,7 +6,7 @@ The adoption of Design Thinking may require a significant cultural shift on the 
 
 For the purposes of this discussion, "Traditional Thinking" can be considered as taking a methodical and scientific approach to problem solving. In this approach, a problem is defined, the process and tools to generate a solution are identified, then a plan is created and followed in the expectation of arriving at the desired outcomes.
 
-Design Thinking takes a different approach an approach which:
+Design Thinking takes a different approach, an approach which can be described as follow
 
 - Focuses on user expectations
 
@@ -22,7 +22,7 @@ Design Thinking takes a different approach an approach which:
 | Focus on avoiding mistakes | | Learn from mistakes |
 | Reports, documentation & gates | | Show, don't tell |
 | Maintaining order | | Encouraging reasonable risk taking |
-| Decisions based on Logic underpinned by Numerical models | | Decisions based on Emotional Insights underpinned by Experiential models |
+| Decisions based on Logic underpinned by Numerical models | | Decisions based on Emotional Insights underpinned by Experimental models |
 | Focus on arriving at the one answer to rule them all, the best answer | | Experimental approach intended to hone in on the best answer in an iterative manner |
 | Upfront Planning | | Incremental Delivery |
 | Business Requirements Definition  | | Customer Journeys and Use Cases |

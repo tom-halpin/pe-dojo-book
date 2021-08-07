@@ -5,8 +5,8 @@ The team working to improve Product Engineering practices across the companies i
 |   |   |
 |---|---|
 |![](assets/miyagi.png)| **Miyagi** Product Engineering Coach and Mentor tasked with increasing the use of Product Engineering within the Universal Imports Group.|
-|![](assets/pennyworth.png)| **Pennyworth**   Project Manager from The Daily Mentioner National Newspaper, part of the Universal Imports Group of companies, tasked with chairing the effort.|
-|![](assets/adriana.png)| **Adriana**  Architect from the InGen Space Exploration Company, part of the Universal Imports Group of companies, lending her expertise to the Product Engineering effort.|
+|![](assets/pennyworth.png)| **Pennyworth**   Project Manager from The Daily Mentioner National Newspaper tasked with chairing the effort.|
+|![](assets/adriana.png)| **Adriana**  Architect from the InGen Space Exploration Company lending her expertise to the Product Engineering effort.|
 |![](assets/paulo.png)| **Paulo**  Product Owner for the Pet Clinic Application.|
 |![](assets/brenda.png)| **Brenda**  Business representative from the Pet Clinic who was the main Business champion of the DevOps transformation.|
 
@@ -14,7 +14,7 @@ They have recommended the following Product Engineering lifecycle
 
 ![](assets/productengineering-lifecycle.png)
 
-In parallel to that effort, the DevOps transformation recently piloted in the Pet Clinic is about to be rolled out across the wider group. For details on the Pet Clinic DevOps transformation see [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/modules/).
+In parallel to this effort, the DevOps transformation recently piloted in the Pet Clinic is about to be rolled out across the wider group. For details on the Pet Clinic's DevOps transformation see [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/modules/).
 
 The team expects that the DevOps transformation will support and improve the following Product Engineering lifecycle phases
 

@@ -6,7 +6,7 @@ We in the Universal Imports Group want to build the best possible products.
 
 To do that I suggest we should first invest time, energy and budget in to building the best engineering teams that we can. Then we need to make additional investments to support those teams ensuring we foster accountability, creativity and also encourage experimentation.
 
-Stronger engineering teams will build better products.
+Simply put stronger engineering teams will build better products.
 
 **M**iyagi any suggestions as to how we might go about doing this?
 

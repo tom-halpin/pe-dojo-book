@@ -4,7 +4,7 @@ The team meet to start work on program Overlook, the program created to increase
 
 **P**ennyworth kicks off the session by explaining the ask from **C**harlie.
 
-He then asks **M**iyagi to give an overview of Product Engineering to the team. This is to ensure they start work on the program with an agreed definition of the discipline of Product Engineering.
+He then asks **M**iyagi to give an overview of Product Engineering to the team. This is to ensure they start work on the program with a shared understanding of the discipline of Product Engineering.
 
 ![](assets/miyagi.png)
 
@@ -16,7 +16,7 @@ The team, following a detailed discussion agree that
 
 - Their objective is to help their respective companies to be more successful in taking products from ideas to production.
 
-- They need to leverage the vast domain expertise and industry experience that exists in the Universal Imports Group.
+- They need to leverage the domain expertise and industry experience that exists in the Universal Imports Group.
 
 - They want teams to move from a project to a product mindset.
 

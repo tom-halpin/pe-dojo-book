@@ -1,12 +1,12 @@
 ## Opening Scroll
 
-**C**harlie has formed a small team to implement Product Engineering across the companies in the Universal Imports Group.
+**C**harlie has formed a small team to increase the use of Product Engineering across the companies in the Universal Imports Group.
 
 |   |   |
 |---|---|
 |![](assets/miyagi.png)| **Miyagi** Product Engineering coach and mentor tasked with increasing the use of Product Engineering within the Universal Imports Group.|
-|![](assets/pennyworth.png)| **Pennyworth**  Project Manager from The Daily Mentioner National Newspaper, part of the Universal Imports Group of companies, tasked with chairing the effort.|
-|![](assets/adriana.png)| **Adriana**  Architect from the InGen Space Exploration Company, part of the Universal Imports Group of companies, lending her expertise to the Product Engineering effort.|
+|![](assets/pennyworth.png)| **Pennyworth**  Project Manager from The Daily Mentioner National Newspaper tasked with chairing the effort.|
+|![](assets/adriana.png)| **Adriana**  Architect from the InGen Space Exploration Company lending her expertise to the Product Engineering effort.|
 |![](assets/paulo.png)| **Paulo**  Product Owner for the Pet Clinic Application.|
 |![](assets/brenda.png)| **Brenda**  Business representative from the Pet Clinic who was the main Business champion of the DevOps transformation.|
 

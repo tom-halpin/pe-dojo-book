@@ -22,7 +22,7 @@ The results of those discussions is the following Getting Started with Product E
 
 - **Teams are to appoint a champion to spearhead the introduction of Product Engineering.**
 
-A champion is a squad member empowered and willing to lead the introduction of Production Engineering in their squad. They are authorized to facilitate the 'pull' of Product Engineering into the squad whilst ensuring the squad is aligned with both the pivot in the organization's culture and the company’s goals.
+A champion is a squad member empowered and willing to lead the introduction of Production Engineering in a squad. They are authorized to facilitate the 'pull' of Product Engineering into the squad whilst ensuring the squad is aligned with both the pivot in the organization's culture and the company’s goals.
 
 - **Champions will participate in a bi-weekly Product Engineering Guild.**
 

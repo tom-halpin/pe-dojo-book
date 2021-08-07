@@ -40,21 +40,21 @@ Internally DXC uses the **Product Engineering Dojo** to:
 
 - Train people at scale on Product Engineering.
 
-- Help people prepare for a face-to-face or virtual Product Engineering Dojos and / or Design Thinking Workshops by learning techniques in advance.
+- Help people prepare for a face-to-face or virtual Product Engineering Dojos and / or Design Thinking Workshops by learning associated techniques in advance.
 
-- Provide a Product Engineering curriculum with interactive browser based modules to allow students get knowledge when they need it.
+- Provide a Product Engineering curriculum comprised of interactive browser based modules to allow students access and consume knowledge as and when they need it.
 
-- Share what "good looks like" when answering enquiries in relation to Product Engineering and / or Design Thinking patterns
+- Share what "good looks like" when answering enquiries in relation to Product Engineering and / or Design Thinking patterns.
 
-In addition following on from the success of the [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo) - continue to leverage the story and the characters by extending the story and thus create more learning experiences - in effect creating a Pet Clinic multi-verse.
+In addition following on from the success of the [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo) - continue to leverage the story and the characters by extending the story and thus create more learning experiences - in effect creating a **Pet Clinic** multi-verse.
 
-To continue giving something back to the community we released an open source version of our Product Engineering Dojo - the [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo).
+To continue giving something back to the community we released an open source version of our Product Engineering Dojo entitled the [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo).
 
 ### Universal Imports - A Story
 
-Our challenge as coaches was to make the experience engaging. There is nothing better than a good story to engage people, so we created one to support the training.
+One of our ongoing challenges as coaches is to make the learning experience engaging. There is nothing better than a good story to engage people, so we created one to support our training.
 
-The Product Engineering Dojo tells the story of a fictitious group of companies, the "Universal Imports Group" and its employees on their Product Engineering journey. You will meet those employees in subsequent chapters, share their journeys and hopefully gain some insights that will help you in your own Product Engineering journey.
+The Product Engineering Dojo tells the story of a fictitious group of companies, the "Universal Imports Group" and its employees as they embark on their Product Engineering journey. You will meet those employees in subsequent chapters, share their journey and hopefully gain some insights that will help you in your own Product Engineering journey.
 
 ### Ready to Begin?
 

@@ -2,11 +2,11 @@
 
 ## Purpose
 
-The primary objective of the this chapter is to give you an introduction to Product Engineering concepts and practices.
+The primary objective of this chapter is to give you an introduction to Product Engineering concepts and practices.
 
 ## Learning Outcomes
 
-This module will give you an introduction to Product Engineering including
+This chapter will give you an introduction to Product Engineering including
 
 - Definition of Product Engineering
 

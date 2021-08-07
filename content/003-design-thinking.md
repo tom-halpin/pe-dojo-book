@@ -6,7 +6,7 @@ The primary objective of the **Design Thinking** chapter is to introduce you to 
 
 ## Learning Outcomes
 
-This module will give you an introduction to Design Thinking it includes
+This chapter will give you an introduction to Design Thinking it includes
 
 - An overview of Design Thinking.
 

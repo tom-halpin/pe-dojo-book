@@ -34,6 +34,6 @@ The next steps are to work with the teams to help them introduce Product Enginee
 
 ![](assets/pennyworth.png)
 
-I love it when a plan comes together, can't wait to see this start to get rolled out across the group.
+I love it when a plan comes together. I can't wait to see this start to get rolled out across the group.
 
 Thanks to all, for all your contributions.

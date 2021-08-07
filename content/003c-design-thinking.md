@@ -10,7 +10,7 @@ The aim of Design Thinking is to
 
 - Lower the costs and risks associated with development of products and services.
 
-- Get user and employee buy-in for the Design Process and to the resulting products and services.
+- Get user and employee buy-in for the Design Process, and to the resulting products and services.
 
 Design Thinking is a creative-problem solving process. Design Thinking is performed to create better products and services by understanding how users are to interact with them and the conditions under which they are to operate.
 
@@ -32,11 +32,13 @@ Design Thinking
 
 ### Design Thinking - Five Phase Model
 
-There are a number variants of Design Thinking all of which embody similar principles. One of the most popular variants is the five-phase model proposed by researchers at Stanford this can be represented as
+There are a number variants of Design Thinking all of which embody broadly similar principles.
+
+One of the most popular variants is the five-phase model proposed by researchers at Stanford this can be represented as
 
 ![](assets/designthinking.png)
 
-Note: The process is non linear. Typically the process is iterative and includes feedback loops between the five phases:
+Note: The Design Thinking process is non linear. Typically the process is iterative and includes feedback loops between the five phases:
 
 - Empathize – with your users to better understand and thus define the problem.
 
@@ -50,4 +52,4 @@ Note: The process is non linear. Typically the process is iterative and includes
 
 ![](assets/designthinking-nonlinearprocess.png)
 
-In this model, our understanding of the users' expectations are constantly being questioned and knowledge is constantly being acquired. This allows us to iteratively redefine a problem and identify alternative solutions. These might not be apparent with our initial understanding of the problem domain.
+In this model, our understanding of the users' expectations are constantly being questioned and knowledge is constantly being acquired. This allows us to iteratively redefine a problem and identify alternative solutions. These solutions might not have been apparent with our initial understanding of the problem domain.

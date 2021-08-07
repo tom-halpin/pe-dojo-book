@@ -1,6 +1,6 @@
 ## Role of Product Engineer
 
-The team spend time discussing the role of the Product Engineer in a product development squad given the importance of the role to establishing a Product Engineering mindset across the Universal Imports Group.
+The team spend time discussing the role of the Product Engineer in a product development squad, given the importance of the role to establishing a Product Engineering mindset across the Universal Imports Group.
 
 They specify the following as being the requirements for the role
 

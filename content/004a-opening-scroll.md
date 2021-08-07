@@ -18,7 +18,7 @@ Amongst the attendees were
 * **A**driana from InGen, the group's Space Exploration Company ![](assets/boom.png)![](assets/boom.png)![](assets/boom.png)![](assets/rocket.png)![](assets/boom.png)![](assets/boom.png)![](assets/boom.png)![](assets/rocket.png)
 * **P**ennyworth from The Daily Mentioner, the group's national newspaper ![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png)![](assets/newspaper.png).
 
-The purpose of the meeting was to brief the representatives from the other companies in the Universal Imports Group on the Pet Clinic's DevOps Transformation with a view to having them champion similar transformation efforts in their respective companies.
+The purpose of the meeting was to brief the representatives from the other companies in the Universal Imports Group on the Pet Clinic's DevOps Transformation, with a view to having them champion similar transformation efforts in their respective companies.
 
 One of the main outcomes from the meeting was the general recognition how Lean principles were applied to a relatively complex development environment. This enabled the Pet Clinic team to document, analyze, and improve the processes involved in the delivery of the Pet Clinic application to their customers in the business.
 
@@ -31,7 +31,7 @@ This chapter covers the ensuing discussions and the actions arising from those d
 |   |   |
 |---|---|
 |![](assets/miyagi.png)| **Miyagi** Product Engineering Coach and Mentor, tasked with increasing the use of Product Engineering within the Universal Imports Group.|
-|![](assets/pennyworth.png)| **Pennyworth**   Project Manager from The Daily Mentioner National Newspaper, part of the Universal Imports Group of companies, tasked with chairing the effort.|
-|![](assets/adriana.png)| **Adriana**  Architect from the InGen Space Exploration Company, part of the Universal Imports Group of companies, lending her expertise to the Product Engineering effort.|
+|![](assets/pennyworth.png)| **Pennyworth**   Project Manager from The Daily Mentioner National Newspaper tasked with chairing the effort.|
+|![](assets/adriana.png)| **Adriana**  Architect from the InGen Space Exploration Company lending her expertise to the Product Engineering effort.|
 |![](assets/paulo.png)| **Paulo**  Product Owner for the Pet Clinic Application.|
 |![](assets/brenda.png)| **Brenda**  Business representative from the Pet Clinic, who was the main Business champion of the DevOps transformation.|

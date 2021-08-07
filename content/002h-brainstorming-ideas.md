@@ -1,16 +1,16 @@
 ## Product Engineering - Brainstorming Ideas
 
-**P**ennyworth, pleased with the progress the team are making, is keen to keep the momentum going.
+**P**ennyworth is pleased with the progress the team are making, he is keen to keep the momentum going.
 
 He arranges a brainstorming session to generate as many ideas or solutions as possible to support their goal: the Introduction of Product Engineering into the Universal Imports Group.
 
 ![](assets/team-brainstorming.png)
 
-The session is facilitated by **M**iyagi. Before starting the session, **M**iyagi reminds the team that:
+The session is facilitated by **M**iyagi. Before starting the session **M**iyagi reminds the team that:
 
 - Everyone should feel free to contribute any and all ideas to the session.
 
-- There is no such thing as a bad or a silly idea, within reason.
+- There is no such thing as a bad or a silly idea.
 
 - Everyone is free to build upon the ideas of others.
 
@@ -18,7 +18,7 @@ The session is facilitated by **M**iyagi. Before starting the session, **M**iyag
 
 - Everyone has an equal voice.
 
-- Initial aim is for quantity over quality, so as soon as an idea occurs to them add it to the board.
+- Initial aim is for quantity over quality, so as soon as an idea occurs to them they are to add it to the board.
 
 The brainstorming session results in the following ideas.
 

@@ -28,4 +28,4 @@ _Through this work we have come to value these 12 principles:_
 
 - _Everybody's free (to Automate Testing)._
 
-- _Encourage teams to have fun, if they don't enjoy making a product, chances are consumers won't enjoy using it._
+- _Encourage teams to have fun, as if they don't enjoy making a product chances are consumers won't enjoy using it._
