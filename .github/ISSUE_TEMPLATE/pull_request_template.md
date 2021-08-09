@@ -4,7 +4,7 @@ Describe the big picture of your changes here to communicate to the maintainers 
 
 ## Types of changes
 
-What types of changes does your code introduce to Product Engineering Dojo eBook?
+What types of changes does your code introduce to Product Engineering Dojo book?
 _Put an `x` in the boxes that apply_
 
 - [ ] Bug fix (non-breaking change which fixes an issue)

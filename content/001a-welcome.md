@@ -1,8 +1,8 @@
 # Chapter 1 - Welcome
 
-Thank you for making time to peruse this eBook. We hope the investment of your time is rewarded with Product Engineering learnings and insights. We further hope that you can apply these learnings in your work and in your team's work.
+Thank you for making time to peruse this book. We hope the investment of your time is rewarded with Product Engineering learnings and insights. We further hope that you can apply these learnings in your work and in your team's work.
 
-This eBook includes **4** chapters and an assessment:
+This book includes **4** chapters and an assessment:
 
 * Welcome
 * Introduction to Product Engineering
@@ -14,7 +14,7 @@ This eBook includes **4** chapters and an assessment:
 
 In this Welcome chapter, we will get you started by introducing you to the scenario and the cast of characters. Once you are all set, you can complete the other chapters at your own pace.
 
-This eBook is set in the **Pet Clinic** ![](assets/cat.png)![](assets/bear.png)![](assets/dog.png)![](assets/hamster.png)![](assets/koala.png)![](assets/horse.png)![](assets/mouse.png)![](assets/octopus.png)![](assets/rabbit.png)![](assets/hospital.png) - **Multiverse** ![](assets/boom.png).
+This book is set in the **Pet Clinic** ![](assets/cat.png)![](assets/bear.png)![](assets/dog.png)![](assets/hamster.png)![](assets/koala.png)![](assets/horse.png)![](assets/mouse.png)![](assets/octopus.png)![](assets/rabbit.png)![](assets/hospital.png) - **Multiverse** ![](assets/boom.png).
 
 We will begin by introducing Universal Imports, this is the group of companies led by the **C**harlie the CEO of [Pet Clinic](https://dxc-technology.github.io/about-devops-dojo/modules/) fame, and our troupe of characters.
 

@@ -1,18 +1,18 @@
-# Product Engineering Dojo eBook
+# Product Engineering Dojo book
 
 A tale from the [Pet-Clinic multiverse](https://dxc-technology.github.io/about-pe-dojo/).
 
 ## Introduction
 
-This repository holds an open-sourced eBook providing an Introduction to Product Engineering. It is intended for anyone working in an organization that has or is embarking on a Product Engineering journey.
+This repository holds an open-sourced book providing an Introduction to Product Engineering. It is intended for anyone working in an organization that has or is embarking on a Product Engineering journey.
 
-This eBook is based on the [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/) from [DXC Technology](https://www.dxc.com).
+This book is based on the [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/) from [DXC Technology](https://www.dxc.com).
 
 The [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/) provides an interactive Product Engineering training course using the [Katacoda](https://www.katacoda.com/) learning platform.
 
 ## Content
 
-The eBook includes **4** chapters and an assessment:
+The book includes **4** chapters and an assessment:
 
 * Welcome
 * Introduction to Product Engineering
@@ -22,23 +22,23 @@ The eBook includes **4** chapters and an assessment:
 
 ## Download
 
-To download a copy of the eBook use one of the following links:
+To download a copy of the book use one of the following links:
 
 * [Light mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-light.pdf)
 
 * [Dark mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-dark.pdf)
 
-## eBook (PDF) Generation Tool
+## book (PDF) Generation Tool
 
 The project uses [Ibis](https://github.com/themsaid/ibis/) which is licensed under the [MIT License](https://github.com/themsaid/ibis/blob/master/LICENSE.md). [Ibis](https://github.com/themsaid/ibis/) is a PHP tool that enables the creation of eBooks from markdown.
 
-To generate the [Light mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-light.pdf) eBook
+To generate the [Light mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-light.pdf) book
 
 ```bash
 ibis build
 ```
 
-To generate the [Dark mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-dark.pdf) eBook
+To generate the [Dark mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-dark.pdf) book
 
 ```bash
 ibis build dark

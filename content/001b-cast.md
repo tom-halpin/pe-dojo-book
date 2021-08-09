@@ -4,7 +4,7 @@ Before we proceed lets take a few minutes to catch up with some of the Pet Clini
 
 We will share in their challenges, opportunities and achievements as our story unfolds.
 
-This eBook has several characters which play a role throughout the story. Some of these characters were originally introduced in the [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/modules/).
+This book has several characters which play a role throughout the story. Some of these characters were originally introduced in the [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/modules/).
 
 Charlie has gathered the following key individuals together from across the group to lead the adoption of Product Engineering in the Universal Imports Group under a program called **Overlook**.
 

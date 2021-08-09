@@ -1,4 +1,4 @@
-# Contributing to the Product Engineering Dojo eBook
+# Contributing to the Product Engineering Dojo book
 
 We :heart: [Pull Requests](https://help.github.com/articles/about-pull-requests/) for fixing or adding content.
 

@@ -21,7 +21,7 @@ Following a series of workshops the team agree to recommend and to start impleme
 | **Product Delivery** | Release to market.  | ![](assets/devopslifecycle.png) |
 | **Product Support**                | Periodic updates and enhancements. Maintenance. Support.  | ![](assets/devopslifecycle.png) | | **Product Maintenance**            | Facilitate scaling and product evolution.  | ![](assets/devopslifecycle.png) |
 
-**Note:** Take the **Getting Started** chapter in this eBook to learn how the workshops were conducted and for more details as to the outcomes from the workshops.
+**Note:** Take the **Getting Started** chapter in this book to learn how the workshops were conducted and for more details as to the outcomes from the workshops.
 
 The team aim to ensure the recommended Product Engineering lifecycle becomes seamlessly integrated with Agile, Lean and DevOps practices across the group:
 
@@ -29,4 +29,4 @@ The team aim to ensure the recommended Product Engineering lifecycle becomes sea
 
 They believe Design Thinking to have the potential to become a key enabler of the **Ideation and Conceptualization** and **Architecture and Prototyping** phases of the Product Engineering lifecycle.
 
-**Note:** See the **Design Thinking** chapter in this eBook for how Design Thinking can be applied to solve complex problems, and provide solutions for customers.
+**Note:** See the **Design Thinking** chapter in this book for how Design Thinking can be applied to solve complex problems, and provide solutions for customers.

@@ -1,6 +1,8 @@
 # Preface
 
-Humans love stories, the urge to tell stories is in our DNA. This eBook can be considered as the novelization of DXC's recently open sourced [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/modules/). The [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/modules/) takes a role-based story telling approach to help achieve hands-on learning at scale.
+Humans love stories, the urge to tell stories is in our DNA.
+
+This book can be considered as the novelization of DXC's recently open sourced [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/modules/). The [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/modules/) takes a role-based story telling approach to help achieve hands-on learning at scale.
 
 The [Online Product Engineering Dojo](https://dxc-technology.github.io/about-pe-dojo/modules/) modules are set in the same **Pet Clinic** multi-verse as DXC's Online DevOps Dojo - [https://dxc-technology.github.io/about-devops-dojo/](https://dxc-technology.github.io/about-devops-dojo/).
 
@@ -22,7 +24,7 @@ One the biggest inertias to this is that organizations do appreciate the power t
 
 Step in ‘Product Engineering’ and its unique way to portray the roles and functions needed to successfully operate through a multi-verse (**Pet Clinic**) experience, making characters relatable to corporate roles whilst applying a simple yet powerful set of proven methods.
 
-This eBook is aimed at all levels, and functions in corporate structure, for those starting includes managers and execs who want to become better informed, or those operating in development teams and want to refine their thinking.
+This book is aimed at all levels, and functions in corporate structure, for those starting includes managers and execs who want to become better informed, or those operating in development teams and want to refine their thinking.
 
 A simple but creative way to help provide knowledge and learning in modern techniques that will be a game changer for how you handle product development.
 
