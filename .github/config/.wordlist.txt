@@ -159,6 +159,7 @@ learngitbranching
 learningpyramid
 LessOps
 lifecycle
+Linter
 localhost
 ltr
 mailto
