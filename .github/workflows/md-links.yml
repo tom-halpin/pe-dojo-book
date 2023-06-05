@@ -3,21 +3,31 @@ name: Check links in markdown
 
 on:
   schedule:
-  - cron: "1 6 */3 * *"
+    - cron: "1 6 */3 * *"
   push:
-    paths: ['**.md', 'md-link-check.json', '.github/workflows/md-links.yml']
+    paths:
+      [
+        "**.md",
+        ".github/config/md-link-check.json",
+        ".github/config/md-links.yml",
+      ]
 
   pull_request:
-    paths: ['**.md', 'md-link-check.json', '.github/workflows/md-links.yml']
+    paths:
+      [
+        "**.md",
+        ".github/config/md-link-check.json",
+        ".github/config/md-links.yml",
+      ]
 
 jobs:
   check-links:
     timeout-minutes: 10
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - uses: gaurav-nelson/github-action-markdown-link-check@v1
-      with:
-        config-file: '.github/workflows/md-link-check.json'
-        use-quiet-mode: 'yes'
+      - uses: actions/checkout@v3
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          config-file: ".github/config/md-link-check.json"
+          use-quiet-mode: "yes"

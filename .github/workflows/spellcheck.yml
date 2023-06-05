@@ -1,13 +1,21 @@
 ---
-name: Spell Check - Workflow
-# Trigger the workflow on push to any branch including main
+name: spellcheck
 on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
   push:
+    branches:
+      - main
 jobs:
-  spell-check:
-    name: markdown spell check
+  check-spelling:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: rojopolis/spellcheck-github-actions@0.12.0
-      name: Spellcheck
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Check Spelling
+        uses: rojopolis/spellcheck-github-actions@0.32.0
+        with:
+          config_path: .github/config/.spellcheck.yml
+          task_name: Markdown

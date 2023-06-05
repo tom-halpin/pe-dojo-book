@@ -14,7 +14,7 @@
 
 ### Question 2
 
-**Which two phases are missing from the Product Engineering Life Cycle diagram?**
+**Which two phases are missing from the Product Engineering Lifecycle diagram?**
 
 - [ ]Architecture and Prototyping.
 - [ ]Product Delivery.

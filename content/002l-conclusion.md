@@ -8,7 +8,7 @@ Our hope is that following this chapter you have a better understanding of the
 
 - Product Engineer - Skill Set
 
-- Product Engineering - Life Cycle
+- Product Engineering - Lifecycle
 
 - Product Engineering - Manifesto
 

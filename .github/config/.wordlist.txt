@@ -30,6 +30,7 @@ aZRf
 blockquote
 brightgreen
 btn
+BugFix
 calc
 Canva
 canva
@@ -40,6 +41,7 @@ CHANGELOG
 charset
 codecademy
 Codecademy
+config
 CRA
 crum
 CSCPortal
@@ -157,10 +159,13 @@ learnt
 learngitbranching
 learningpyramid
 LessOps
+Lifecycle
 lifecycle
+Linter
 localhost
 ltr
 mailto
+Markdown
 mdash
 md
 mdspell
