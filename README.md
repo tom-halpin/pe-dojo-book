@@ -2,6 +2,8 @@
 
 A tale from the [Pet-Clinic multiverse](https://dxc-technology.github.io/about-pe-dojo/).
 
+[![GitHub Super-Linter](https://github.com/tom-halpin/pe-dojo-book/actions/workflows/linter.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
 ## Introduction
 
 This repository holds an open-sourced book providing an Introduction to Product Engineering. It is intended for anyone working in an organization that has or is embarking on a Product Engineering journey.
