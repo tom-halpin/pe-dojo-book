@@ -7,19 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.1.0] - 2021-06-05
 
-### Changed
-
-- Updated GitHub Action versions
-- Moved GitHub Action config files to dedicated folder
+- [CHANGED] Updated GitHub Action versions
+- [CHANGED] Moved GitHub Action config files to dedicated folder
 
 ## [1.0.1] - 2021-07-14
 
-### Added
-
-- Foreword
+- [ADDED] Foreword
 
 ## [1.0.0] - 2021-07-05
 
-### Added
-
-- Initial release
+- [ADDED] Initial release
