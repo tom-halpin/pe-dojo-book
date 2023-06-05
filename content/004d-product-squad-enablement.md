@@ -10,7 +10,7 @@ _Through this work we have come to value these 12 principles:_
 
 - _Focus on Customers underpinned by a deep empathy for their needs._
 
-- _Make Data Driven Decisions at all stages of the product life cycle._
+- _Make Data Driven Decisions at all stages of the product lifecycle._
 
 - _Foster a Culture of Experimentation via Ideation, Validation, Realization, Feedback and Iteration._
 

@@ -44,7 +44,7 @@ Miyagi is keen to apply those learnings in the Universal Imports Group and to al
 
 She caught the space bug as a child watching the lunar landings on a grainy old TV set and is busy pursuing her passion for all things Space with InGen.
 
-Adriana has an interest in all phases of the Product Engineering life cycle, but has a particular interest in architecture for testability.
+Adriana has an interest in all phases of the Product Engineering Lifecycle, but has a particular interest in architecture for testability.
 
 She wants to ensure the rockets InGen plan to send to infinity (figuratively speaking) and beyond return safely.
 

@@ -10,6 +10,6 @@ The team brainstorm Ideas to create a Prototype or "example of good" for Product
 
 - Facilitate value creation at a lower cost base and with a lower total cost of ownership.
 
-The team agrees to recommend the following Product Engineering life cycle to teams in the group working to improve their Product Engineering practices:
+The team agrees to recommend the following Product Engineering Lifecycle to teams in the group working to improve their Product Engineering practices:
 
 ![](assets/productengineering-lifecycle.png)
