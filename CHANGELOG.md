@@ -1,4 +1,4 @@
-# PE Dojo Ebook - Changelog
+# PE Dojo eBook - Changelog
 
 All notable changes to this project will be documented in this file.
 
