@@ -2,6 +2,7 @@
     "ignorePatterns": [
         {"pattern": ".spelling"},
         {"pattern": "/workflows/"},
+        {"pattern": "/ISSUE_TEMPLATE/"},
         {"pattern": "/actions?"},
         {"pattern": "assets/"},
         {"pattern": "main/export/"}
