@@ -30,6 +30,7 @@ aZRf
 blockquote
 brightgreen
 btn
+BugFix
 calc
 Canva
 canva
@@ -158,11 +159,13 @@ learnt
 learngitbranching
 learningpyramid
 LessOps
+Lifecycle
 lifecycle
 Linter
 localhost
 ltr
 mailto
+Markdown
 mdash
 md
 mdspell

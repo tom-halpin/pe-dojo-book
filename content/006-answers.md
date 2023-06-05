@@ -138,13 +138,13 @@ The correct answer is Good Product Engineering practices should support **all of
 
 #### Question 2
 
-**Which two phases are missing from the Product Engineering Life Cycle diagram?**
+**Which two phases are missing from the Product Engineering Lifecycle diagram?**
 
-The two phases of the Product Engineering Life Cycle missing from the Product Engineering Life Cycle are
+The two phases of the Product Engineering Lifecycle missing from the Product Engineering Lifecycle are
 
 **Architecture and Prototyping** and **Product Delivery**.
 
-The recommended Product Engineering Life Cycle is
+The recommended Product Engineering Lifecycle is
 
 ![](assets/productengineering-lifecycle.png)
 

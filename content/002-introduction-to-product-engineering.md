@@ -14,6 +14,6 @@ This chapter will give you an introduction to Product Engineering including
 
 - Product Engineer - Skill Set
 
-- Product Engineering - Life Cycle
+- Product Engineering - Lifecycle
 
 - Product Engineering - Manifesto

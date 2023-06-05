@@ -1,6 +1,6 @@
 ## Lifecycle
 
-The team brainstorm Ideas to create a Prototype or "example of good" for Product Engineering Life Cycle which will:
+The team brainstorm Ideas to create a Prototype or "example of good" for Product Engineering Lifecycle which will:
 
 - Enable the companies in the group to create new revenue-generating business models.
 
