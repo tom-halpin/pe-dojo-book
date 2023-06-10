@@ -1,5 +1,4 @@
-# Product Engineering Dojo book [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-
+# Product Engineering Dojo book [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/license/mpl-2-0/)
 
 A tale from the [Pet-Clinic multiverse](https://dxc-technology.github.io/about-pe-dojo/).
 
