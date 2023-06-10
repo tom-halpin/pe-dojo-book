@@ -2,6 +2,7 @@
     "ignorePatterns": [
         {"pattern": ".spelling"},
         {"pattern": "/workflows/"},
+        {"pattern": "/opensource.org/"},
         {"pattern": "/tom-halpin/"},
         {"pattern": "/actions?"},
         {"pattern": "assets/"},
