@@ -146,8 +146,6 @@ junky
 Kaizen
 Kanban
 Kata
-katacoda
-KataCoda
 keepachangelog
 keygen
 KTs
