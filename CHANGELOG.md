@@ -7,7 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.1.3] - 2023-06-24
 
- - [FIXED] Fixed permissions issues with greetings GitHub action
+- [FIXED] Fixed permissions issues with greetings GitHub action
+- [CHANGED] Triggers for markdown link checker and linter actions
 
 ## [1.1.2] - 2023-06-11
 
