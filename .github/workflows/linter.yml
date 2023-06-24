@@ -2,10 +2,13 @@
 name: Linter - Workflow
 # Trigger the workflow on push or pull request and include main
 on:
-  push:
-    #branches-ignore: [main]
   pull_request:
-    # branches: [main]
+    types:
+      - opened
+      - synchronize
+  push:
+    branches:
+      - main
 jobs:
   super-linter:
     # Job name

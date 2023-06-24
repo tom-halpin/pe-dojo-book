@@ -159,6 +159,7 @@ learningpyramid
 LessOps
 Lifecycle
 lifecycle
+linter
 Linter
 localhost
 ltr
