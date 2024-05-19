@@ -54,7 +54,7 @@ ibis build dark
 
 ## Links
 
-* [Introduction to Product Engineering - First Edition](https://github.com/dxc-]technology/ebook-pe-dojo)
+* [Introduction to Product Engineering - First Edition](https://github.com/dxc-technology/ebook-pe-dojo)
 * [Ibis](https://github.com/themsaid/ibis/)
 
 ## Contributing

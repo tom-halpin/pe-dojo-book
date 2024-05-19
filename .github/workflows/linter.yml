@@ -19,10 +19,10 @@ jobs:
     steps:
       # Checkout the code base
       - name: Check out code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       # Run Linter against code base
       - name: Lint code base
-        uses: docker://github/super-linter:v5
+        uses: docker://github/super-linter:v6
         env:
           LINTER_RULES_PATH: .github/linters
           MARKDOWN_CONFIG_FILE: .markdownlint.json
