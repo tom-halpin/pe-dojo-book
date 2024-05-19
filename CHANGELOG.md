@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [ADDED] Second Edition
 
-# [1.1.3] - 2023-06-24
+## [1.1.3] - 2023-06-24
 
 - [FIXED] Fixed permissions issues with greetings GitHub action
 - [CHANGED] Triggers for Markdown link checker and linter actions
