@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v4
       # Run Linter against code base
       - name: Lint code base
-        uses: docker://github/super-linter:v6
+        uses: docker://github/super-linter:v5
         env:
           LINTER_RULES_PATH: .github/linters
           MARKDOWN_CONFIG_FILE: .markdownlint.json
