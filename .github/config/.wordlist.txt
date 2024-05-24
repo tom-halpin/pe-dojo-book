@@ -56,7 +56,6 @@ designthinking
 dev
 devops
 DevOps
-devopsatdxc
 devopsdojo
 devopslifecycle
 dialogs
@@ -324,12 +323,11 @@ ina
 iyagi
 iyagi's
 Jez
-Kinson
 merida
 miyagi
 Miyagi
 Miyagi's
-ojacques
+Padma
 paulo
 Paulo
 renda

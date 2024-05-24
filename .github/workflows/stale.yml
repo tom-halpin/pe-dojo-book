@@ -17,11 +17,15 @@ jobs:
       - uses: actions/stale@v9
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          stale-issue-message: "This issue has been marked as Stale because it has been open for 14 days with no activity. Remove the stale label or comment on the issue, or it will be closed in 7 days."
-          stale-pr-message: "This PR has been marked as Stale because it has been open for 14 days with no activity. Remove the stale label or comment on the PR, or it will be closed in 7 days."
+          stale-issue-message: "This issue has been marked as Stale because it has been open for 7 days with no activity. Remove the stale label or comment on the issue, or it will be closed in 7 days."
+          stale-pr-message: "This PR has been marked as Stale because it has been open for 7 days with no activity. Remove the stale label or comment on the PR, or it will be closed in 7 days."
           stale-issue-label: "no-issue-activity"
+          close-issue-message: "This issue was closed due to prolonged inactivity."
+          close-pr-message: "This PR was closed due to prolonged inactivity."
           exempt-issue-labels: "awaiting-approval,work-in-progress"
           stale-pr-label: "no-pr-activity"
           exempt-pr-labels: "awaiting-approval,work-in-progress"
-          days-before-stale: 14
+          closed-issue-label: "closed-due-to-inactivity"
+          closed-pr-label: "closed-due-to-inactivity"
+          days-before-stale: 7
           days-before-close: 7

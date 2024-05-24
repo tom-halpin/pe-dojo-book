@@ -15,7 +15,7 @@ Following a series of workshops the team agree to recommend and to start impleme
 | **Phase**                          | **Description**                                                                                                                | **Comments**                                                             |
 |------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | **Ideation and Conceptualization** | Conceive the idea. Document it. Idea worth pursuing or not?                                                                    | UI/UX prototyping tools like [Axure](https://www.axure.com/)             |
-| **Architecture and Prototyping**   | Create engineering designs. Bring finalized concept to life. | Look to design companies like DXC's [argodesign](https://argodesign.com/) |
+| **Architecture and Prototyping**   | Create engineering designs. Bring finalized concept to life. | Look to design companies |
 | **Design & Development**           | Develop both product features and all supporting requirements including CI/CD pipelines, Test Automation & SRE needs. Manage implementation costs. | ![](assets/devopslifecycle.png) |
 | **System Testing, Scans, and UAT** | System testing, scans and UAT. Validate developed product meets the intended use and is fault free. Identify & fix any issues. | ![](assets/devopslifecycle.png) |
 | **Product Delivery** | Release to market.  | ![](assets/devopslifecycle.png) |
