@@ -56,7 +56,6 @@ designthinking
 dev
 devops
 DevOps
-devopsatdxc
 devopsdojo
 devopslifecycle
 dialogs

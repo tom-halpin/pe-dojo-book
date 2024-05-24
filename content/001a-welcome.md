@@ -16,9 +16,7 @@ In this Welcome chapter, we will get you started by introducing you to the scena
 
 This book is set in the **Pet Clinic** ![](assets/cat.png)![](assets/bear.png)![](assets/dog.png)![](assets/hamster.png)![](assets/koala.png)![](assets/horse.png)![](assets/mouse.png)![](assets/octopus.png)![](assets/rabbit.png)![](assets/hospital.png) - **Multiverse** ![](assets/boom.png).
 
-We will begin by introducing Universal Imports, this is the group of companies led by the **C**harlie the CEO of [Pet Clinic](https://dxc-technology.github.io/about-devops-dojo/modules/) fame, and our troupe of characters.
-
-Some of you may already be familiar with **C**harlie and the Pet Clinic crew from the [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/modules/)
+We will begin by introducing the Universal Imports group, the group of companies led by the **C**harlie the CEO and and by introducing our troupe of characters.
 
 Product Engineering the final frontier: these are the ![](assets/rocket.png) voyages of the Universal Imports Group as they work to introduce Product Engineering ...
 
@@ -31,8 +29,6 @@ Product Engineering the final frontier: these are the ![](assets/rocket.png) voy
 **C**harlie is keen to ensure that the teams working in his group of companies apply the discipline of Product Engineering when designing and developing solutions.
 
 The introduction of Product Engineering is hot on the heels of his initiative to pilot DevOps improvements in the Pet Clinic company.
-
-Details of that initiative and the associated adventures can be found in the [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/modules/).
 
 The group of companies which are collectively known as the **Universal Imports Group** include the following
 
