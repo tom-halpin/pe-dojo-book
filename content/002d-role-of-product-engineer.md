@@ -2,7 +2,7 @@
 
 The team spend time discussing the role of the Product Engineer in a product development squad, given the importance of the role to establishing a Product Engineering mindset across the Universal Imports Group.
 
-They specify the following as being the requirements for the role
+They specify the following as being the requirements for the Product Engineering role
 
 - Help shape the product.
 
@@ -18,8 +18,18 @@ They specify the following as being the requirements for the role
 
 - Deliver a mix of products including
 
-  - Proof of Concepts (POCs).
+  - Proof of Concepts (POCs): Preliminary versions of products released to a limited audience for testing and feedback.
 
-  - Minimum Viable Products (MVPs).
+  - Full-Scale Production Versions: Complete, fullly functional versions of products ready for release to the mass-market.
 
-  - Highly available scalable systems.
+  - Custom Solutions: Tailored products designed to meet specific customer requirements.
+
+  - Data-Driven Systems: Products that leverage analytics and big data to provide insights and drive decision-making.
+
+  - Cloud-Based Services: Products offering software as a service (SaaS) over the internet, leveraging the cloud for scalability and flexibility.
+
+  - Microservices Architectures: Products designed as a suite of modular services which are independently deployable.
+
+  - IoT (Internet of Things) Devices: Connected devices that collect and exchange data with other systems and devices.
+
+  - AI and Machine Learning Models: Intelligent systems that continually learn and adapt to provide advanced capabilities and insights.

@@ -1,5 +1,7 @@
 ## Product Engineering - Brainstorming Ideas
 
+![](assets/pennyworth.png)
+
 **P**ennyworth is pleased with the progress the team are making, he is keen to keep the momentum going.
 
 He arranges a brainstorming session to generate as many ideas or solutions as possible to support their goal: the Introduction of Product Engineering into the Universal Imports Group.
@@ -18,7 +20,7 @@ The session is facilitated by **M**iyagi. Before starting the session **M**iyagi
 
 - Everyone has an equal voice.
 
-- Initial aim is for quantity over quality, so as soon as an idea occurs to them they are to add it to the board.
+- Initial aim is for quantity over quality. as soon as an idea occurs to them they are to add it to the board.
 
 The brainstorming session results in the following ideas.
 
