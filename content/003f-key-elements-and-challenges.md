@@ -24,7 +24,7 @@ There are also challenges in successfully adapting Design Thinking. There is a n
 
 - _Accept more ambiguity_ - Better experiences are difficult to quantify in terms of value delivered.
 
-- _Embrace risk_ - Iterative innovation is inherently risky - Requires trust and a culture which allows people to take risks sometimes when only having a partial understanding of the problem domain.
+- _Embrace risk_ - Iterative innovation is inherently risky, it requires trust and a culture which allows people to take risks sometimes when only having a partial understanding of the problem domain.
 
 - _Set realistic expectations_ - Design is not a cure for all ills, stakeholder expectations need to be managed appropriately and aligned to a realistic delivery timeline.
 

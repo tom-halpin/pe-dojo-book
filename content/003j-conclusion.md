@@ -1,6 +1,6 @@
 ## Conclusion
 
-Hopefully this overview of Design Thinking has given you an insight into how simple and yet how revolutionary an idea it is.
+Hopefully this overview of Design Thinking has given you an insight into how simple and yet how revolutionary an approach it is.
 
 The chapter included
 
@@ -10,7 +10,9 @@ The chapter included
 
 - Differences between what might be termed Traditional Thinking and Design Thinking.
 
-- Key Elements of and Challenges with Design Thinking.
+- Key Elements of Design Thinking.
+
+- Challenges with Design Thinking.
 
 - Process of Design Thinking.
 

@@ -52,4 +52,4 @@ Note: The Design Thinking process is non linear. Typically the process is iterat
 
 ![](assets/designthinking-nonlinearprocess.png)
 
-In this model, our understanding of the users' expectations are constantly being questioned and knowledge is constantly being acquired. This allows us to iteratively redefine a problem and identify alternative solutions. These solutions might not have been apparent with our initial understanding of the problem domain.
+In this model, our understanding of the users' expectations are constantly being questioned and knowledge is constantly being acquired. This allows us to iteratively redefine a problem and identify alternative solutions. These alternative solutions might not have been apparent with our initial understanding of the problem domain.
