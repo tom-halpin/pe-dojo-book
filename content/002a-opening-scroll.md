@@ -8,7 +8,7 @@
 |![](assets/pennyworth.png)| **Pennyworth**  Project Manager from The Daily Mentioner National Newspaper tasked with chairing the effort.|
 |![](assets/adriana.png)| **Adriana**  Architect from the InGen Space Exploration Company lending her expertise to the Product Engineering effort.|
 |![](assets/paulo.png)| **Paulo**  Product Owner for the Pet Clinic Application.|
-|![](assets/brenda.png)| **Brenda**  Business representative from the Pet Clinic who was the main Business champion of the DevOps transformation.|
+|![](assets/brenda.png)| **Brenda**  Business representative from the Pet Clinic. The main Business champion of the DevOps transformation in that business.|
 
 The remainder of this chapter gives an introduction to Product Engineering.
 

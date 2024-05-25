@@ -4,7 +4,7 @@
 
 I am happy with what we have agreed to focus on as a team.
 
-In my opinion, this is not primarily a re-tooling exercise, this is about making a cultural pivot. Of course that pivot may in time need to be supported by tooling.
+In my opinion, this is not primarily a re-tooling exercise, this is about the need to make a cultural pivot. Of course that pivot may in time need to be supported by tooling.
 
 ![](assets/paulo.png)
 
@@ -30,7 +30,7 @@ A product is a solution created to address the needs of a particular set of cust
 
 I would like to note for the record before the "Project Managers" guild, with **P**ennyworth leading them, turn up at my door with torches and pitchforks ala Shrek that the following cultural impacts are not intended as sweeping generalized statements as to the ills of a Project Management approach.
 
-These impacts are intended to convey how the cultural challenges that exist in **many** organizations and in **many** projects which can be addressed by a pivot to a product mindset.
+These impacts are intended to convey how the cultural challenges that exist in **many** organizations and in **many** projects can be addressed by a pivot to a product mindset.
 
 | **Impact**      | **Project**                                                                                    | **Product**                                                                       |
 |-----------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
@@ -44,6 +44,6 @@ These impacts are intended to convey how the cultural challenges that exist in *
 | Requirements    | Dedicated phase(s) to capture customer requirements                                            | On-going backlog management supported by Agile ceremonies                         |
 | Deliverables    | Systems focus                                                                                  | Customer focus                                                                    |
 | Unit of Work    | % Complete                                                                                     | Value Added                                                                       |
-| Ownership       | Gates, Hand offs, KTs, Functional Teams                                                        | Team builds it, teams deploy it, teams run it                                           |
+| Ownership       | Gates, Hand offs, KTs, Functional Teams                                                        | Team builds it, team deploys it, team runs it                                           |
 | Technical Debt  | Responsibility for and accountability for technical debt may be a different team or even a different organization | Product team owns technical debt for their product and are accountable for it                               |
 | Funding         | IT Projects                                                                                    | Business Outcomes                                                                 |

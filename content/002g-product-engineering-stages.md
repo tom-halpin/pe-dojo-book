@@ -14,16 +14,16 @@ Following a series of workshops the team agree to recommend and to start impleme
 
 | **Phase**                          | **Description**                                                                                                                | **Comments**                                                             |
 |------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| **Ideation and Conceptualization** | Conceive the idea. Document it. Idea worth pursuing or not?                                                                    | UI/UX prototyping tools like [Axure](https://www.axure.com/)             |
+| **Ideation and Conceptualization** | Conceive the idea. Document it. Idea worth pursuing or not?                                                                    | UI/UX prototyping tools             |
 | **Architecture and Prototyping**   | Create engineering designs. Bring finalized concept to life. | Look to design companies |
 | **Design & Development**           | Develop both product features and all supporting requirements including CI/CD pipelines, Test Automation & SRE needs. Manage implementation costs. | ![](assets/devopslifecycle.png) |
 | **System Testing, Scans, and UAT** | System testing, scans and UAT. Validate developed product meets the intended use and is fault free. Identify & fix any issues. | ![](assets/devopslifecycle.png) |
 | **Product Delivery** | Release to market.  | ![](assets/devopslifecycle.png) |
 | **Product Support**                | Periodic updates and enhancements. Maintenance. Support.  | ![](assets/devopslifecycle.png) | | **Product Maintenance**            | Facilitate scaling and product evolution.  | ![](assets/devopslifecycle.png) |
 
-**Note:** Take the **Getting Started** chapter in this book to learn how the workshops were conducted and for more details as to the outcomes from the workshops.
+**Note:** Review the **Getting Started** chapter in this book to learn how the workshops were conducted and for more details as to the outcomes from the workshops.
 
-The team aim to ensure the recommended Product Engineering lifecycle becomes seamlessly integrated with Agile, Lean and DevOps practices across the group:
+The team aim to ensure the recommended Product Engineering lifecycle is seamlessly integrated with Agile, Lean and DevOps practices across the group:
 
 ![](assets/enterprise-best-practices.png)
 
