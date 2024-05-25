@@ -5,9 +5,13 @@ Thank you for making time to peruse this book. We hope the investment of your ti
 This book includes **4** chapters and an assessment:
 
 * Welcome
+
 * Introduction to Product Engineering
+
 * Design Thinking
+
 * Getting Started
+
 * Assessment
 
 ## Overview
@@ -28,16 +32,18 @@ Product Engineering the final frontier: these are the ![](assets/rocket.png) voy
 
 **C**harlie is keen to ensure that the teams working in his group of companies apply the discipline of Product Engineering when designing and developing solutions.
 
-The introduction of Product Engineering is hot on the heels of his initiative to pilot DevOps improvements in the Pet Clinic company.
+The introduction of Product Engineering comes hot on the heels of his initiative to pilot DevOps improvements in the Pet Clinic company.
 
 The group of companies which are collectively known as the **Universal Imports Group** include the following
 
 * **Daily Mentioner** - a national newspaper.
+
 * **InGen** - a space exploration company.
+
 * **Pet Clinic** - one of a number of online retailing businesses in the group.
 
 All of the companies in the Universal Imports Group rely on software to run their business. Some of this software is purchased, some of it is open source and some of it is developed in-house.
 
-The objective of improving Product Engineering practices in the group is to:
+The objective of introducing Product Engineering practices in the group is to:
 
 _Ensure that any software applications and integrations developed, and any managed services provided are more suited to the needs of the business and to the demands of the market._

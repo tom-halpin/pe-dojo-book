@@ -2,7 +2,7 @@
 
 In this chapter we introduced the scenario and the cast of characters that will be used in this book.
 
-Hopefully upon completing the rest of the chapters in the **Product Engineering** book, the next time you or your team have a need for a bigger ![](assets/boat.png) it will be Product Engineered accordingly.
+Hopefully upon completing the rest of the chapters in **Product Engineering An Introduction**, the next time you or your team have a need for a bigger ![](assets/boat.png) it will be Product Engineered accordingly.
 
 Buckle up we are going on an adventure, where we are going we don't need roads ![](assets/rocket.png) but first an optional challenge ...
 
@@ -10,4 +10,4 @@ Buckle up we are going on an adventure, where we are going we don't need roads !
 
 The challenge is to take some time to consider and make some notes as to your current understanding of and on the use of Product Engineering in your team.
 
-The ask is that you review and reflect on those notes upon completion of the **Product Engineering** book. Good luck with the challenge.
+The ask is that you review and reflect on those notes upon completion of **Product Engineering An Introduction**. Good luck with the challenge.
