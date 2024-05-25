@@ -16,6 +16,7 @@ allowfullscreen
 amer
 Amongst
 anaged
+analytics
 APIs
 argodesign
 Arial
@@ -51,6 +52,7 @@ CTO
 cyber
 Dbased
 de
+deployable
 deliverables
 designthinking
 dev
@@ -129,6 +131,7 @@ InGen's
 integrations
 Integrations
 io
+IoT
 iphone
 iteratively
 itrevolution
@@ -234,6 +237,7 @@ ROI
 rsa
 rubyinstaller
 RubyInstaller
+SaaS
 SaC
 sachelp
 scaffolder

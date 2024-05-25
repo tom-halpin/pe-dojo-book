@@ -20,7 +20,7 @@ They specify the following as being the requirements for the Product Engineering
 
   - Proof of Concepts (POCs): Preliminary versions of products released to a limited audience for testing and feedback.
 
-  - Full-Scale Production Versions: Complete, fullly functional versions of products ready for release to the mass-market.
+  - Full-Scale Production Versions: Complete, fully functional versions of products ready for release to the mass-market.
 
   - Custom Solutions: Tailored products designed to meet specific customer requirements.
 
