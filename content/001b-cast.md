@@ -1,7 +1,6 @@
 ## Our Cast
 
-This book has several characters which play a role throughout the story.
-Before we proceed lets take a few minutes to meet some of the Pet Clinic crew and some people from the other companies in the Universal Imports Group.
+This book has several characters which play a role throughout the story. Before we proceed lets take a few minutes to meet some of the Pet Clinic crew and some people from the other companies in the Universal Imports Group.
 
 We will share in their challenges, opportunities and achievements as our story unfolds.
 
