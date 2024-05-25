@@ -14,7 +14,9 @@ This chapter will give you an introduction to Design Thinking it includes
 
 - Differences between what might be termed Traditional Thinking and Design Thinking.
 
-- Key Elements of and Challenges with Design Thinking.
+- Key Elements of Design Thinking.
+
+- Challenges with Design Thinking.
 
 - Process of Design Thinking.
 

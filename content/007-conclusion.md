@@ -1,6 +1,6 @@
 # Conclusion
 
-You have now finished the **Product Engineering** book, thank you for making the time to read it.
+You have now finished the **Product Engineering: An Introduction** book. Thank you for making the time to read it.
 
 If this book has been your introduction to Product Engineering we hope that it is just the start of your foray into Product Engineering.
 
