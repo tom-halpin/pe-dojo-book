@@ -12,7 +12,7 @@ Simply put stronger engineering teams will build better products.
 
 ![](assets/miyagi.png)
 
-The structure and culture I recommend for Product Engineering teams is known as the "Product Squad" which was first popularized by Spotify.
+The structure and culture I recommend for Product Engineering teams is known as the "Product Squad" a concept popularized by Spotify.
 
 Product squads are cross-functional teams comprised of a small number of developers and a product owner. Product squads own a complete product or a specific functional area of a product line, they are also responsible for developing domain expertise in support of an organizations product portfolio.
 
@@ -37,4 +37,4 @@ Makes sense to me. The essence of what you are saying is that we need to empower
 
 ![](assets/paulo.png)
 
-To do that, we will need to provide our teams some guidance on how to move to a squad model.
+To do that, we will need to provide our teams some guidance on how to move to a product squad model.

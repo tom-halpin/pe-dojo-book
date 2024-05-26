@@ -24,7 +24,7 @@ Thanks the team and explains that having created Product Engineering
 
 - Lifecycle
 
-- Interactive Training Course
+- Training Content
 
 and formed a
 

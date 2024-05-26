@@ -1,8 +1,8 @@
 ## Getting Started
 
-![](assets/miyagi.png)
-
 The team have agreed to follow a Product Engineering approach using Design Thinking - Empathize, Define, Ideate, Prototype & Test - to Introduce Product Engineering across the Universal Imports Group
+
+![](assets/miyagi.png)
 
 Miyagi reminds everyone of the teams' Defined mission statement:
 

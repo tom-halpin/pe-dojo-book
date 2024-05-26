@@ -5,9 +5,13 @@
 The Pet Clinic's DevOps Transformation is starting to deliver results including:
 
 * Improvements in the development team's culture, process and tooling.
+
 * Requested features being made available sooner to the business.
+
 * Increases in quality and operability of the business features deployed.
+
 * Stronger links between business and IT teams.
+
 * Improved experiences for customers with a resulting increase in customer satisfaction.
 
 A recent workshop was held to facilitate the group leaderships' desire to see the learnings from the Pet Clinic's DevOps Transformation applied to the other companies in the Universal Imports Group.
@@ -27,6 +31,8 @@ The resulting process improvements helped the Pet Clinic team to identify and el
 The team, now faced with the challenge of improving Product Engineering practices within the Universal Imports Group, are considering applying the techniques learnt during the workshop to help scale Product Engineering practices across the Universal Imports Group.
 
 This chapter covers the ensuing discussions and the actions arising from those discussions.
+
+The team involved in the discussions are
 
 |   |   |
 |---|---|
