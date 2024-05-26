@@ -9,3 +9,7 @@ We trust you have enjoyed the book and as promised in the Welcome chapter the ne
  We further hope that you will apply your learnings from this book in the teams you work with and on the products you work on.
 
  This is the way!
+
+ However before you turn off the electronic device you used to read this book.
+
+ There follows an assessment for you to take to allow you to validate your learnings from the time you invested in reading **Production Engineering: An Introduction** should you be so inclined.
