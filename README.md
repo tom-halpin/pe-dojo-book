@@ -14,12 +14,13 @@ The first edition of the [Product Engineering An Introduction](https://github.co
 
 ## Content
 
-The book includes **4** chapters and an assessment:
+The book includes **5** chapters and an assessment:
 
 * Welcome
 * Introduction to Product Engineering
 * Design Thinking
 * Getting Started
+* Afterword
 * Assessment
 
 ## Download

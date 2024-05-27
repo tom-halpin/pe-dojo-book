@@ -1,4 +1,4 @@
-# Conclusion
+## Conclusion
 
 You have now finished the **Product Engineering: An Introduction** book. Thank you for making the time to read it.
 
@@ -12,4 +12,4 @@ We trust you have enjoyed the book and as promised in the Welcome chapter the ne
 
  However before you turn off the electronic device you used to read this book.
 
- There follows an assessment for you to take to allow you to validate your learnings from the time you invested in reading **Production Engineering: An Introduction** should you be so inclined.
+ There now follows an assessment; which you can take to validate your learnings from the time you invested in reading **Production Engineering: An Introduction** if you are so inclined.
