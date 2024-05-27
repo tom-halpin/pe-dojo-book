@@ -2,7 +2,7 @@
 
 Thank you for making time to peruse this book. We hope the investment of your time is rewarded with Product Engineering learnings and insights. We further hope that you can apply these learnings in your work and in your team's work.
 
-This book includes **4** chapters and an assessment:
+This book includes **5** chapters and an assessment:
 
 * Welcome
 
@@ -11,6 +11,8 @@ This book includes **4** chapters and an assessment:
 * Design Thinking
 
 * Getting Started
+
+* Afterword
 
 * Assessment
 
