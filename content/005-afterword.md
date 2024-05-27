@@ -20,7 +20,6 @@ Key Takeaways:
 
 - Overview of the learning objectives and what readers can expect to gain.
 
-
 ### Chapter 2: Introduction to Product Engineering
 
 Synopsis:
