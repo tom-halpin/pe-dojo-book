@@ -26,10 +26,11 @@ This publication is designed to cater to all levels within a corporate hierarchy
 As you delve into the second edition of this publication, get ready for a transformative journey. The wisdom encapsulated within these pages is not just theoretical, but practical, poised to redefine how product development is approached. It equips individuals with the tools and comprehension required to thrive in the ever-evolving landscape of IT. This prospect should inspire and invigorate individuals, sparking excitement about the potential changes it can bring to their approach.
 
 **Dr Padma Roy**
-__Distinguished Technologist__
+
+_Distinguished Technologist_
 
 ## Dedication
 
 _For my family, those who have come before, those that are here now and those that are yet to arrive._
 
-_August, 2024_
+_May, 2024_
