@@ -35,7 +35,7 @@ To download a copy of the book use one of the following links:
 
 ### Ibis
 
-The project uses [Ibis](https://github.com/themsaid/ibis/) which is licensed under the [MIT License](https://github.com/themsaid/ibis/blob/master/LICENSE.md). [Ibis](https://github.com/themsaid/ibis/) is a PHP tool that enables the creation of eBooks from Markdown. [Ibis](https://github.com/themsaid/ibis/) aims to simplify the ebook creation process by allowing the writers to focus on their content by providing the functionality required to convert that content into an eBook.
+The project uses [Ibis](https://github.com/themsaid/ibis/) which is licensed under the [MIT License](https://github.com/themsaid/ibis/blob/master/LICENSE.md). [Ibis](https://github.com/themsaid/ibis/) is a PHP tool that enables the creation of eBooks from Markdown. [Ibis](https://github.com/themsaid/ibis/) aims to simplify the eBook creation process by allowing the writers to focus on their content by providing the functionality required to convert that content into an eBook.
 
 ### Light Mode
 
@@ -63,4 +63,3 @@ ibis build dark
 We :heart: contributions.
 
 Please review the [Contributing Guide](CONTRIBUTING.md) before submitting a pull request.
-g
