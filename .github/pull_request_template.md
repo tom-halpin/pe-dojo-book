@@ -18,10 +18,10 @@ _Put an `x` in the boxes that apply_
 _Put an `x` in the boxes that apply. You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code._
 
 - [ ] I have read the [CONTRIBUTING](https://github.com/tom-halpin/pe-dojo-book/blob/main/CONTRIBUTING.md) doc.
-- [ ] Lint passes locally with my changes.
+- [ ] All [GitHub code and syntax check actions](https://github.com/tom-halpin/pe-dojo-book/actions) pass with my changes.
 - [ ] I have added necessary documentation (if appropriate).
 - [ ] Any dependent changes have been merged and published in downstream modules
 
 ## Further comments
 
-If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
+If this is a relatively large or complex change, before submitting a PR feel free to kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
