@@ -1,6 +1,6 @@
 ## Dojos
 
-This book's roots lie in a number of interactive enablement dojos which were developed and in time open sourced to share with the wider community.
+This book's roots lie in a number of interactive enablement dojos which were developed and open sourced to share with the wider community.
 
 ### DevOps Dojos
 

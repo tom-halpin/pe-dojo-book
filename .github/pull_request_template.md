@@ -5,6 +5,7 @@ Describe the big picture of your changes here to communicate to the maintainers 
 ## Types of changes
 
 What types of changes does your code introduce to Product Engineering Dojo book?
+
 _Put an `x` in the boxes that apply_
 
 - [ ] Bugfix (non-breaking change which fixes an issue)
@@ -19,8 +20,7 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 
 - [ ] I have read the [CONTRIBUTING](https://github.com/tom-halpin/pe-dojo-book/blob/main/CONTRIBUTING.md) doc.
 - [ ] All [GitHub code and syntax check actions](https://github.com/tom-halpin/pe-dojo-book/actions) pass with my changes.
-- [ ] I have added necessary documentation (if appropriate).
-- [ ] Any dependent changes have been merged and published in downstream modules
+- [ ] I have added / updated necessary documentation (if appropriate).
 
 ## Further comments
 
