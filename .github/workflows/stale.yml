@@ -1,6 +1,5 @@
 ---
 # Action Repo: https://github.com/actions/stale
-# Action README:
 
 name: Mark stale issues and pull requests
 

@@ -6,36 +6,35 @@ A tale from the Pet-Clinic multiverse.
 
 ## Introduction
 
-This repository holds the Second Edition of an open-sourced book **Product Engineering An Introduction** providing an introduction to Product Engineering.
+This repository holds the Second Edition of an open-sourced book **Product Engineering An Introduction** which provides an introduction to Product Engineering in the context of software development.
 
-It is intended for anyone working in an organization that has or is embarking on a Product Engineering journey.
+It is intended for anyone working in a development team or an organization that has or is embarking on a Product Engineering journey.
 
-The first edition of the [Product Engineering An Introduction](https://github.com/dxc-technology/ebook-pe-dojo)s book was based on the **Product Engineering Dojo** from [DXC Technology](https://www.dxc.com). The **Product Engineering Dojo** provided an online interactive Product Engineering training course.
+The first edition of the [Product Engineering An Introduction](https://github.com/dxc-technology/ebook-pe-dojo)s book was based on an online interactive **Product Engineering Dojo** from [DXC Technology](https://www.dxc.com).
 
 ## Content
 
 The book includes **5** chapters and an assessment:
 
-* Welcome
-* Introduction to Product Engineering
-* Design Thinking
-* Getting Started
-* Afterword
-* Assessment
+- Welcome
+- Introduction to Product Engineering
+- Design Thinking
+- Getting Started
+- Afterword
+- Assessment
 
 ## Download
 
 To download a copy of the book use one of the following links:
 
-* [Light mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-light.pdf)
+- [Light mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-light.pdf)
+- [Dark mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-dark.pdf)
 
-* [Dark mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-dark.pdf)
-
-## book (PDF) Generation Tool
+## Book (PDF) Generation Tool
 
 ### Ibis
 
-The project uses [Ibis](https://github.com/themsaid/ibis/) which is licensed under the [MIT License](https://github.com/themsaid/ibis/blob/master/LICENSE.md). [Ibis](https://github.com/themsaid/ibis/) is a PHP tool that enables the creation of eBooks from Markdown. [Ibis](https://github.com/themsaid/ibis/) aims to simplify the eBook creation process by allowing the writers to focus on their content by providing the functionality required to convert that content into an eBook.
+The project uses [Ibis](https://github.com/themsaid/ibis/) a PHP tool licensed under the [MIT License](https://github.com/themsaid/ibis/blob/master/LICENSE.md). [Ibis](https://github.com/themsaid/ibis/) enables the creation of eBooks from Markdown. [Ibis](https://github.com/themsaid/ibis/) aims to simplify the eBook creation process by allowing writers to focus on their content by providing the functionality required to convert the content created into an eBook.
 
 ### Light Mode
 
@@ -55,8 +54,8 @@ ibis build dark
 
 ## Links
 
-* [Product Engineering An Introduction - First Edition](https://github.com/dxc-technology/ebook-pe-dojo)
-* [Ibis](https://github.com/themsaid/ibis/)
+- [Product Engineering An Introduction - First Edition](https://github.com/dxc-technology/ebook-pe-dojo)
+- [Ibis](https://github.com/themsaid/ibis/)
 
 ## Contributing
 
