@@ -23,10 +23,10 @@ Following a series of workshops the team agree to recommend and to start impleme
 
 **Note:** Review the **Getting Started** chapter in this book to learn how the workshops were conducted and for more details as to the outcomes from the workshops.
 
-The team aim to ensure the recommended Product Engineering lifecycle is seamlessly integrated with Agile, Lean and DevOps practices across the group:
+The team aim to ensure the recommended Product Engineering lifecycle is seamlessly integrated with existing Agile, Lean and DevOps practices across the group:
 
 ![](assets/enterprise-best-practices.png)
 
-They believe Design Thinking to have the potential to become a key enabler of the **Ideation and Conceptualization** and **Architecture and Prototyping** phases of the Product Engineering lifecycle.
+They believe Design Thinking to have the potential to become a key enabler of the **Ideation and Conceptualization** and **Architecture and Prototyping** phases of the Product Engineering lifecycle in particular.
 
-**Note:** See the **Design Thinking** chapter in this book for how Design Thinking can be applied to solve complex problems, and provide solutions for customers.
+**Note:** See the **Design Thinking** chapter in this book for how Design Thinking can be applied to solve complex problems, and to provide solutions for customers.

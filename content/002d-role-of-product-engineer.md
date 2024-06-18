@@ -1,6 +1,10 @@
 ## Role of Product Engineer
 
-The team spend time discussing the role of the Product Engineer in a product development squad, given the importance of the role to establishing a Product Engineering mindset across the Universal Imports Group.
+The team spend time discussing the role of the Product Engineer in a product development squad.
+
+![](assets/teamchat.png)
+
+They agree on the importance of the role in establishing a Product Engineering mindset across the Universal Imports Group.
 
 They specify the following as being the requirements for the Product Engineering role
 
@@ -16,7 +20,7 @@ They specify the following as being the requirements for the Product Engineering
 
 - Focus on Return on Investment (ROI).
 
-- Deliver a mix of products including
+- Deliver a mix of products across the Universal Imports including but not limited to
 
   - Proof of Concepts (POCs): Preliminary versions of products released to a limited audience for testing and feedback.
 

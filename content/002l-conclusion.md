@@ -24,4 +24,6 @@ and the Universal Imports groups' Product Engineering Manifesto with your team w
 
 - Product Engineering Manifesto
 
-We wish you well with the challenge. We hope it leads to some interesting insights and actionable items to improve your teams' Product Engineering practices.
+Good luck with the challenge.
+
+We hope it leads to some interesting insights and actionable items to improve your teams' Product Engineering practices.

@@ -1,6 +1,6 @@
 ## Product Engineer - Skill Set
 
-The team discuss the skill set required by Product Engineers
+Having agreed on the importance of the role to the **Overlook** program, the team discuss the skill set required by Product Engineers
 
 ![](assets/intro-pe-strip1-page1.png)
 
