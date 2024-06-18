@@ -4,7 +4,7 @@
 
 **P**ennyworth is pleased with the progress the team are making, he is keen to keep the momentum going.
 
-He arranges a brainstorming session to generate as many ideas or solutions as possible to support their goal: the Introduction of Product Engineering into the Universal Imports Group.
+He arranges a brainstorming session to generate as many ideas or solutions as possible to support the **Overlook** program: the Introduction of Product Engineering into the Universal Imports Group.
 
 ![](assets/team-brainstorming.png)
 

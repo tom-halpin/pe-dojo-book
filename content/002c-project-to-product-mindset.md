@@ -22,7 +22,7 @@ A project is designed to achieve a specific goal. Projects typically have a set 
 
 ### Product
 
-A product is a solution created to address the needs of a particular set of customers, the aim is to create one solution to address the needs of many customers. Software Products come in many forms including applications, APIs, managed services, platforms etc. Products are typically developed, deployed and operated by dedicated product teams or product squads.
+A product is a solution created to address the needs of a particular set of customers, the aim is to create one solution to address the needs of many customers. Software Products come in many forms including applications, APIs, managed services, platforms etc. Products are typically developed, deployed and operated by dedicated product teams and / or product squads.
 
 ### Cultural Impacts
 
@@ -30,7 +30,7 @@ A product is a solution created to address the needs of a particular set of cust
 
 I would like to note for the record before the "Project Managers" guild, with **P**ennyworth leading them, turn up at my door with torches and pitchforks ala Shrek that the following cultural impacts are not intended as sweeping generalized statements as to the ills of a Project Management approach.
 
-These impacts are intended to convey how the cultural challenges that exist in **many** organizations and in **many** projects can be addressed by a pivot to a product mindset.
+These impacts are intended to convey how the cultural challenges that exist in **many** organizations and that exist in **many** projects can be addressed by a pivot to a product mindset.
 
 | **Impact**      | **Project**                                                                                    | **Product**                                                                       |
 |-----------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
