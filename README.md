@@ -59,7 +59,7 @@ ibis build dark
 
 ## Launch
 
-**Product Engineering An Introduction** was kindly launched by **_Dr Padma Roy's_** on her **_Engineering, Medicine, Science & Technology Podcast (EMST Podcast)_**.
+**Product Engineering An Introduction** was kindly launched by **_Dr Padma Roy's_** on her [Engineering, Medicine, Science & Technology Podcast (EMST Podcast)](https://podcasters.spotify.com/pod/show/dr-padmavathi-roy5/episodes/Product-Engineering-Podcast-e2laag6?%24web_only=true&_branch_match_id=1334419004233073589&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9WvCPRKMjVzs%2FD0TgIAeBJM9TAAAAA%3D).
 
 The podcast episode is available in is available to download at the following locations:
 
