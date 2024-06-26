@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.0.1] - 2024-06-26
 
 - [ADDED] launch details to README.md
-- [CHANGED] updates to markdown content
+- [CHANGED] updates to Markdown content
 
 ## [2.0.0] - 2024-06-19
 
