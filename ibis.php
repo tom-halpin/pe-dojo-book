@@ -56,6 +56,5 @@ return [
     /**
      * A notice printed at the final page of a generated sample.
      */
-    'sample_notice' => 'Product Engineering - A Tale from the Pet Clinic multi-verse<br>
-                        The novelization of the Product Engineering Dojo<br>',
+    'sample_notice' => 'Product Engineering An Introduction - A Tale from the Pet Clinic multi-verse<br><br>',
 ];

@@ -2,7 +2,7 @@
 
 Humans have an innate love for stories; the urge to tell them is embedded in our DNA.
 
-This book is the novelization of an online interactive Product Engineering Dojo, which utilized a role-based storytelling approach to facilitate large-scale, hands-on learning.
+This book is the novelization of an online interactive **Product Engineering Dojo**, which utilized a role-based storytelling approach to facilitate large-scale, hands-on learning.
 
 **Product Engineering An Introduction** is set in the **Pet Clinic** multiverse. Its goal is to immerse readers and learners in realistic scenarios where they engage with a virtual cast of characters, experiencing the team's challenges and sharing in the team's aspirations as they delve into the world of Product Engineering.
 
