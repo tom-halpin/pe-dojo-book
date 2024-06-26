@@ -4,7 +4,7 @@ Describe the big picture of your changes here to communicate to the maintainers 
 
 ## Types of changes
 
-What types of changes does your code introduce to Product Engineering Dojo book?
+What types of changes does your code introduce to the Product Engineering An Introduction eBook?
 
 _Put an `x` in the boxes that apply_
 

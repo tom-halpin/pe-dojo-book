@@ -8,7 +8,7 @@ DevOps Dojos gained popularity after Target, a major U.S. retail company, introd
 
 The dojo experience resonates with many, consistently delivering impressive results through on-site sessions. However, scalability remains a challenge, as it's often impractical to accommodate everyone in face-to-face dojos. To overcome this, interactive browser-based DevOps Dojos have been developed. Additionally, the Dojo model has been extended to other domains, including Product Engineering.
 
-### Product Engineering Dojo
+### Product Engineering An Introduction
 
 A business's customer-centric approach to software development can be better facilitated by the judicious application of Product Engineering, underpinned by Agile and DevOps principles. As a result many companies are investing in helping customer-facing teams adopt new approaches like Product Engineering to increase their agility, collaboration and responsiveness to customer needs.
 
@@ -34,7 +34,7 @@ This open-sourced eBook, **Product Engineering An Introduction**, is designed to
 
 One of our ongoing challenges as coaches is to make the learning experience engaging. There is nothing better than a good story to engage people, so we created one to support our training.
 
-The Product Engineering Dojo tells the story of a fictitious group of companies, the "Universal Imports Group" and its employees as they embark on their Product Engineering journey. You will meet those employees shorty, share their journey and hopefully gain some insights that will help you in your own Product Engineering journey.
+Product Engineering An Introduction tells the story of a fictitious group of companies, the "Universal Imports Group" and its employees as they embark on their Product Engineering journey. You will meet those employees shorty, share their journey and hopefully gain some insights that will help you in your own Product Engineering journey.
 
 ### Ready to Begin?
 
@@ -44,4 +44,4 @@ Let's get started on Product Engineering!
 
 ![Once Upon a Time](assets/onceuponatime.jpg)
 
-Use the dojo!
+This is the way!
