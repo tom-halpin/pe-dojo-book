@@ -2,7 +2,7 @@
 
 The **Product Engineering: An Introduction** eBook is intended to enhance the understanding and application of product engineering practices to software development; through the use of storytelling and real-world scenarios involving a fictional team. The hope being to make learning process engaging and practical.
 
-In closing, this collection of chapter summaries and key takeaways revisits the core insights and lessons presented throughout the book.
+In closing, this collection of chapter summaries and key takeaways revisits the core insights and lessons presented throughout the **Product Engineering An Introduction** eBook.
 
 ## Chapter Summaries and Key Takeaways
 
