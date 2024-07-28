@@ -11,11 +11,11 @@ jobs:
     - uses: actions/checkout@v4
       with:
         fetch-depth: '0'
-    - name: Build Ibis Export Files
+    - name: Generate eBook files using Ibis
       uses: bobbyiliev/ibis-build-action@main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         IBIS_PATH: './'
         IBIS_BRANCH: 'main'
         EMAIL: 'tom-halpin@hotmail.com'
-        COMMIT_MESSAGE: 'Updated Ibis Exported Files'
+        COMMIT_MESSAGE: 'Generated Product Engineering eBook PDFs using Ibis'

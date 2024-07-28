@@ -8,26 +8,34 @@ A tale from the Pet-Clinic multiverse.
 
 This repository holds the Second Edition of an open-sourced eBook entitled **Product Engineering An Introduction**.  **Product Engineering An Introduction** provides an introduction to Product Engineering in the context of software development.
 
-It is intended for anyone working in a development team or an organization that has or is embarking on a Product Engineering journey.
+It is intended for anyone working in a development team or an organization that has already or is about to embark on a Product Engineering journey.
 
 The first edition of the [Product Engineering An Introduction](https://github.com/dxc-technology/ebook-pe-dojo) eBook was based on an online interactive **Product Engineering Dojo** developed by [DXC Technology](https://www.dxc.com).
 
 ## Content
 
-The book includes **5** chapters and an assessment:
+The book includes **5** chapters and an assessment.
 
-- Welcome
-- Introduction to Product Engineering
-- Design Thinking
-- Getting Started
-- Afterword
-- Assessment
+The chapters are:
+
+- Welcome - sets the stage for the eBook by introducing its purpose, structure, and the fictional team that will be used to illustrate key concepts. It outlines the main objectives of the book and what readers can expect to learn
+
+- Introduction to Product Engineering - introduces the fundamental concepts of product engineering, emphasizing its importance in modern software development. It covers the lifecycle of product engineering from ideation, design, development, testing, deployment and maintenance.
+
+- Design Thinking - explains how to adopt a user-centric approach to product development to drive innovation and user-centric solutions. It details the Design Thinking phases of empathize, define, ideate, prototype, and test.
+
+- Getting Started - provides practical steps to introduce product engineering in an organization. It includes guidance on setting up teams, defining roles, and establishing processes.
+
+- Afterword - contains a collection of chapter summaries and key takeaways revisits the core insights and lessons presented throughout the eBook.
+
+- Assessment - help you verify the knowledge gained from reading **Product Engineering An Introduction**.
 
 ## Download
 
 To download a copy of the eBook use one of the following links:
 
 - [Light mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-light.pdf)
+
 - [Dark mode](https://github.com/tom-halpin/pe-dojo-book/blob/main/export/product-engineering-dark.pdf)
 
 ## Book (PDF) Generation Tool
@@ -55,6 +63,7 @@ ibis build dark
 ## Links
 
 - [Product Engineering An Introduction - First Edition](https://github.com/dxc-technology/ebook-pe-dojo)
+
 - [Ibis](https://github.com/themsaid/ibis/)
 
 ## Launch
