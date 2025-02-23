@@ -6,19 +6,19 @@ A tale from the Pet-Clinic multiverse.
 
 ## Introduction
 
-This repository holds the Second Edition of an open-sourced eBook entitled **Product Engineering An Introduction**.  **Product Engineering An Introduction** provides an introduction to Product Engineering in the context of software development.
+This repository holds the Second Edition of an open-sourced eBook entitled **Product Engineering An Introduction**.
 
-It is intended for anyone working in a development team or an organization that has already or is about to embark on a Product Engineering journey.
+**Product Engineering An Introduction** provides an introduction to Product Engineering in the context of software development, it is intended for anyone working in a development team or an organization that has already has or is about to embark on a Product Engineering journey.
 
 The first edition of the [Product Engineering An Introduction](https://github.com/dxc-technology/ebook-pe-dojo) eBook was based on an online interactive **Product Engineering Dojo** developed by [DXC Technology](https://www.dxc.com).
 
 ## Content
 
-The book includes **5** chapters and an assessment.
+This eBook includes **5** chapters and an assessment.
 
 The chapters are:
 
-- Welcome - sets the stage for the eBook by introducing its purpose, structure, and the fictional team that will be used to illustrate key concepts. It outlines the main objectives of the book and what readers can expect to learn
+- Welcome - sets the stage for the eBook by introducing its purpose, structure, and the fictional team that will be used to illustrate key concepts. It outlines the main objectives of the eBook and what readers can expect to learn
 
 - Introduction to Product Engineering - introduces the fundamental concepts of product engineering, emphasizing its importance in modern software development. It covers the lifecycle of product engineering from ideation, design, development, testing, deployment and maintenance.
 
@@ -68,9 +68,9 @@ ibis build dark
 
 ## Launch
 
-**Product Engineering An Introduction** was kindly launched by **_Dr Padma Roy's_** on her [Engineering, Medicine, Science & Technology Podcast (EMST Podcast)](https://podcasters.spotify.com/pod/show/dr-padmavathi-roy5/episodes/Product-Engineering-Podcast-e2laag6?%24web_only=true&_branch_match_id=1334419004233073589&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9WvCPRKMjVzs%2FD0TgIAeBJM9TAAAAA%3D).
+**Product Engineering An Introduction** was kindly launched by **_Dr Padma Roy_** on her [Engineering, Medicine, Science & Technology Podcast (EMST Podcast)](https://podcasters.spotify.com/pod/show/dr-padmavathi-roy5/episodes/Product-Engineering-Podcast-e2laag6?%24web_only=true&_branch_match_id=1334419004233073589&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9WvCPRKMjVzs%2FD0TgIAeBJM9TAAAAA%3D).
 
-The podcast episode is available in is available to download at the following locations:
+The podcast episode is available to download and view at the following locations:
 
 - [Spotify](https://podcasters.spotify.com/pod/show/dr-padmavathi-roy5/episodes/Product-Engineering-Podcast-e2laag6/a-abctttc)
 
